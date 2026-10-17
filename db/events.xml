@@ -1107,12 +1107,12 @@
         <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
@@ -1126,12 +1126,12 @@
         <nominal>8</nominal>
         <min>6</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
@@ -1145,12 +1145,12 @@
         <nominal>30</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
@@ -1168,13 +1168,13 @@
         <nominal>5</nominal>
         <min>2</min>
         <max>3</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
         <secondary>InfectedArmy</secondary>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
@@ -1186,12 +1186,12 @@
         <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
@@ -1205,12 +1205,12 @@
         <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
@@ -1224,13 +1224,13 @@
         <nominal>6</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>345600</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
         <secondary>InfectedArmy</secondary>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>

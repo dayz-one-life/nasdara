@@ -103,7 +103,7 @@
         <!--Parameters controlling group spawning behaviour-->
         <group_params>
             <!--Enables the group spawning behaviour (default: false)-->
-            <enablegroups>true</enablegroups>
+            <enablegroups>false</enablegroups>
             <!--Enables using spawn points listed in groups as regular spawn points when enablegroups is disabled (default: true)-->
             <groups_as_regular>true</groups_as_regular>
             <!--The default lifetime for a group in seconds, -1 means disabled (default: -1)-->

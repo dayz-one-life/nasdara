@@ -3197,7 +3197,7 @@
 	<type name="AKM">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AKM_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />
@@ -3209,7 +3209,7 @@
 		<attachments chance="1.00">
 			<item name="AK_WoodHndgrd_Gold" chance="1.00" />
 		</attachments>
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments chance="1.00">
 			<item name="Mag_AKM_30Rnd_Gold" chance="0.70" />
 			<item name="Mag_AKM_Drum75Rnd_Gold" chance="0.30" />
@@ -3220,7 +3220,7 @@
 	<type name="AK74">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />
@@ -3233,7 +3233,7 @@
 	<type name="AK101">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK101_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />
@@ -3319,11 +3319,7 @@
 		<attachments preset="SCAR_Buttstocks" />
 		<attachments preset="M4_Optics" />
 		<attachments preset="M4_Suppressors" />
-		<attachments chance="1.00">
-			<item name="Mag_CMAG_30Rnd" chance="0.60" />
-			<item name="Mag_CMAG_40Rnd" chance="0.20" />
-			<item name="Mag_CMAG_20Rnd" chance="0.20" />
-		</attachments>
+		<attachments preset="M4_Magazines" />
 		<attachments preset="Battery" />
 	</type>
 	<type name="SCARL_Black">
@@ -3333,11 +3329,7 @@
 		</attachments>
 		<attachments preset="M4_Optics" />
 		<attachments preset="M4_Suppressors" />
-		<attachments chance="1.00">
-			<item name="Mag_CMAG_30Rnd" chance="0.60" />
-			<item name="Mag_CMAG_40Rnd" chance="0.20" />
-			<item name="Mag_CMAG_20Rnd" chance="0.20" />
-		</attachments>
+		<attachments preset="M4_Magazines" />
 		<attachments preset="Battery" />
 	</type>
 	<type name="SVD">
@@ -5694,7 +5686,7 @@
 	<type name="AK101_Black">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK101_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />
@@ -5702,7 +5694,7 @@
 	<type name="AK101_Green">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK101_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />
@@ -5710,7 +5702,7 @@
 	<type name="AK74_Black">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />
@@ -5718,7 +5710,7 @@
 	<type name="AK74_Green">
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_Handguards" />
-		<attachments preset="AK_Optics" />
+		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK_Magazines" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Battery" />

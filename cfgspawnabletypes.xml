@@ -3780,6 +3780,11 @@
 		<cargo preset="Xmas_Chemlights_Small" />
 	</type>
 	
+	<type name="PowerGenerator">
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+	</type>
 	<!-- VEHICLES -->
 	<type name="Boat_01_Black">
 		<attachments chance="1.00">

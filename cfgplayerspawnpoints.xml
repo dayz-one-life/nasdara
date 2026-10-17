@@ -128,27 +128,203 @@
                 
                 Be aware that this is only checked on player log in, so it will not swap for as long as nobody is logging in.
             -->
-            <group name="AllSpawnpoints" lifetime="0">
-                <pos x="14069.808594" z="13083.109375" />
-                <pos x="13571.811523" z="12821.112305" />
-                <pos x="13400.915039" z="11966.529297" />
-                <pos x="13282.304688" z="12401.000977" />
-                <pos x="12512.414063" z="12863.467773" />
-                <pos x="11440.970703" z="12169.095703" />
-                <pos x="10862.637695" z="11663.675781" />
-                <pos x="10186.566406" z="12018.264648" />
-                <pos x="10262.566406" z="13160.295898" />
-                <pos x="8906.655273" z="12133.699219" />
-                <pos x="8681.69043" z="13286.759766" />
-                <pos x="8125.182617" z="13367.421875" />
-                <pos x="7776.975586" z="12732.59375" />
-                <pos x="7448.172363" z="13488.839844" />
-                <pos x="6898" z="13612.086914" />
-                <pos x="5478.358887" z="13765.376953" />
-                <pos x="5173.121094" z="13392.959961" />
-                <pos x="6173.647461" z="13440.870117" />
-                <pos x="8240.628906" z="12159.977539" />
-                <pos x="9705.84082" z="12237.535156" />
+            <group name="AnarJuy">
+                <pos x="5540.000000" z="9079.000000" />
+            </group>
+            <group name="BadAsyab">
+                <pos x="8575.000000" z="11397.000000" />
+            </group>
+            <group name="BagheDara">
+                <pos x="9450.000000" z="3243.000000" />
+            </group>
+            <group name="BagheMir">
+                <pos x="4730.000000" z="5598.000000" />
+            </group>
+            <group name="BalaKalay">
+                <pos x="4476.000000" z="7607.000000" />
+            </group>
+            <group name="BameSabz">
+                <pos x="8740.000000" z="8572.000000" />
+            </group>
+            <group name="BarKalay">
+                <pos x="7331.000000" z="13118.000000" />
+            </group>
+            <group name="BazareKohna">
+                <pos x="7972.000000" z="8008.000000" />
+            </group>
+            <group name="Bustanshahr">
+                <pos x="7361.000000" z="5642.000000" />
+            </group>
+            <group name="ChaharTut">
+                <pos x="8078.000000" z="8770.000000" />
+            </group>
+            <group name="ChashmeSabz">
+                <pos x="6649.000000" z="12779.000000" />
+            </group>
+            <group name="Dahana">
+                <pos x="10214.000000" z="11802.000000" />
+            </group>
+            <group name="DahaneheKavir">
+                <pos x="11250.000000" z="2513.000000" />
+            </group>
+            <group name="DareArdis">
+                <pos x="3436.000000" z="4933.000000" />
+            </group>
+            <group name="DaraeNur">
+                <pos x="10917.000000" z="13916.000000" />
+            </group>
+            <group name="DarvazeheGharb">
+                <pos x="4914.000000" z="13586.000000" />
+            </group>
+            <group name="Dashtabad">
+                <pos x="10655.000000" z="10792.000000" />
+            </group>
+            <group name="DashtabadAirbase">
+                <pos x="11974.000000" z="10681.000000" />
+            </group>
+            <group name="Dehqankalay">
+                <pos x="9969.000000" z="10525.000000" />
+            </group>
+            <group name="DostKalay">
+                <pos x="6698.000000" z="11375.000000" />
+            </group>
+            <group name="Gandomabad">
+                <pos x="7871.000000" z="12477.000000" />
+            </group>
+            <group name="GardAbad">
+                <pos x="11084.000000" z="7628.000000" />
+            </group>
+            <group name="GulDara">
+                <pos x="7030.000000" z="4404.000000" />
+            </group>
+            <group name="GulZar">
+                <pos x="5061.000000" z="6495.000000" />
+            </group>
+            <group name="JuiBarDistrict">
+                <pos x="9190.000000" z="4712.000000" />
+            </group>
+            <group name="KamarZir">
+                <pos x="9432.000000" z="11924.000000" />
+            </group>
+            <group name="KarizeMarz">
+                <pos x="10795.000000" z="8576.000000" />
+            </group>
+            <group name="Karizak">
+                <pos x="3531.000000" z="12815.000000" />
+            </group>
+            <group name="KarkhanaDistrict">
+                <pos x="9150.000000" z="4219.000000" />
+            </group>
+            <group name="KatiGolzar">
+                <pos x="6212.000000" z="11817.000000" />
+            </group>
+            <group name="Khorramabad">
+                <pos x="4634.000000" z="10833.000000" />
+            </group>
+            <group name="KuchaDar">
+                <pos x="4512.000000" z="10149.000000" />
+            </group>
+            <group name="MalKalay">
+                <pos x="9596.000000" z="8867.000000" />
+            </group>
+            <group name="MandaMarz">
+                <pos x="5368.000000" z="10615.000000" />
+            </group>
+            <group name="MarzeLut">
+                <pos x="13780.000000" z="12761.000000" />
+            </group>
+            <group name="MianDara">
+                <pos x="8870.000000" z="12493.000000" />
+            </group>
+            <group name="MianDeh">
+                <pos x="7326.000000" z="4161.000000" />
+            </group>
+            <group name="NasdarBetonFactory">
+                <pos x="9706.000000" z="6563.000000" />
+            </group>
+            <group name="Nasdara">
+                <pos x="9632.000000" z="4075.000000" />
+            </group>
+            <group name="NoAbad">
+                <pos x="7021.000000" z="5019.000000" />
+            </group>
+            <group name="OKB754">
+                <pos x="6908.000000" z="10058.000000" />
+            </group>
+            <group name="PanjAsyab">
+                <pos x="5829.000000" z="13559.000000" />
+            </group>
+            <group name="PayeKuh">
+                <pos x="6312.000000" z="5732.000000" />
+            </group>
+            <group name="PayanKalay">
+                <pos x="9328.000000" z="7527.000000" />
+            </group>
+            <group name="PeshDasht">
+                <pos x="11351.000000" z="9476.000000" />
+            </group>
+            <group name="PeshKuh">
+                <pos x="3714.000000" z="10925.000000" />
+            </group>
+            <group name="PirKalay">
+                <pos x="7669.000000" z="8669.000000" />
+            </group>
+            <group name="QalaeKuhna">
+                <pos x="4491.000000" z="12228.000000" />
+            </group>
+            <group name="RegistanDistrict">
+                <pos x="10683.000000" z="4679.000000" />
+            </group>
+            <group name="SabzPashan">
+                <pos x="4571.000000" z="11724.000000" />
+            </group>
+            <group name="Sabzabad">
+                <pos x="6854.000000" z="7404.000000" />
+            </group>
+            <group name="SalarAbad">
+                <pos x="7923.000000" z="9611.000000" />
+            </group>
+            <group name="SareDeh">
+                <pos x="3005.000000" z="6277.000000" />
+            </group>
+            <group name="SarmanNaftRefinery">
+                <pos x="10767.000000" z="5927.000000" />
+            </group>
+            <group name="ShahYailaq">
+                <pos x="10334.000000" z="8226.000000" />
+            </group>
+            <group name="Shinkalay">
+                <pos x="8386.000000" z="10159.000000" />
+            </group>
+            <group name="ShinkayWadi">
+                <pos x="7040.000000" z="12021.000000" />
+            </group>
+            <group name="SuvinShahr">
+                <pos x="5759.000000" z="12586.000000" />
+            </group>
+            <group name="TerminalNas">
+                <pos x="10921.000000" z="3810.000000" />
+            </group>
+            <group name="TorDara">
+                <pos x="4165.000000" z="9324.000000" />
+            </group>
+            <group name="TutDara">
+                <pos x="5484.000000" z="8066.000000" />
+            </group>
+            <group name="TutMian">
+                <pos x="7915.000000" z="6771.000000" />
+            </group>
+            <group name="Varzaneh">
+                <pos x="13397.000000" z="12116.000000" />
+            </group>
+            <group name="YakChinar">
+                <pos x="5825.000000" z="9690.000000" />
+            </group>
+            <group name="ZiaratDistrict">
+                <pos x="10133.000000" z="4163.000000" />
+            </group>
+            <group name="ZulfiqarMissileBase">
+                <pos x="2696.000000" z="9693.000000" />
             </group>
         </generator_posbubbles>
     </fresh>

@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Anar Juy",
+        "category": "Village",
+        "x": 5540,
+        "z": 9079
+    },
+    {
+        "name": "Bad Asyab",
+        "category": "Village",
+        "x": 8575,
+        "z": 11397
+    },
+    {
+        "name": "Bagh-e Dara",
+        "category": "Village",
+        "x": 9450,
+        "z": 3243
+    },
+    {
+        "name": "Bagh-e Mir",
+        "category": "Village",
+        "x": 4730,
+        "z": 5598
+    },
+    {
+        "name": "Bala Kalay",
+        "category": "Village",
+        "x": 4476,
+        "z": 7607
+    },
+    {
+        "name": "Bam-e Sabz",
+        "category": "Small City",
+        "x": 8740,
+        "z": 8572
+    },
+    {
+        "name": "Bar Kalay",
+        "category": "Village",
+        "x": 7331,
+        "z": 13118
+    },
+    {
+        "name": "Bazar-e Kohna",
+        "category": "Village",
+        "x": 7972,
+        "z": 8008
+    },
+    {
+        "name": "Bustanshahr",
+        "category": "Small City",
+        "x": 7361,
+        "z": 5642
+    },
+    {
+        "name": "Chahar Tut",
+        "category": "Village",
+        "x": 8078,
+        "z": 8770
+    },
+    {
+        "name": "Chashme Sabz",
+        "category": "Village",
+        "x": 6649,
+        "z": 12779
+    },
+    {
+        "name": "Dahana",
+        "category": "Village",
+        "x": 10214,
+        "z": 11802
+    },
+    {
+        "name": "Dahaneh-e Kavir",
+        "category": "Village",
+        "x": 11250,
+        "z": 2513
+    },
+    {
+        "name": "Dar-e Ardis",
+        "category": "Small City",
+        "x": 3436,
+        "z": 4933
+    },
+    {
+        "name": "Dara-e Nur",
+        "category": "Village",
+        "x": 10917,
+        "z": 13916
+    },
+    {
+        "name": "Darvazeh-e Gharb",
+        "category": "Village",
+        "x": 4914,
+        "z": 13586
+    },
+    {
+        "name": "Dashtabad",
+        "category": "Small City",
+        "x": 10655,
+        "z": 10792
+    },
+    {
+        "name": "Dashtabad Airbase",
+        "category": "Village",
+        "x": 11974,
+        "z": 10681
+    },
+    {
+        "name": "Dehqankalay",
+        "category": "Village",
+        "x": 9969,
+        "z": 10525
+    },
+    {
+        "name": "Dost Kalay",
+        "category": "Village",
+        "x": 6698,
+        "z": 11375
+    },
+    {
+        "name": "Gandomabad",
+        "category": "Small City",
+        "x": 7871,
+        "z": 12477
+    },
+    {
+        "name": "Gard Abad",
+        "category": "Small City",
+        "x": 11084,
+        "z": 7628
+    },
+    {
+        "name": "Gul Dara",
+        "category": "Village",
+        "x": 7030,
+        "z": 4404
+    },
+    {
+        "name": "Gul Zar",
+        "category": "Village",
+        "x": 5061,
+        "z": 6495
+    },
+    {
+        "name": "Jui Bar District",
+        "category": "Small City",
+        "x": 9190,
+        "z": 4712
+    },
+    {
+        "name": "Kamar Zir",
+        "category": "Small City",
+        "x": 9432,
+        "z": 11924
+    },
+    {
+        "name": "Kariz-e Marz",
+        "category": "Village",
+        "x": 10795,
+        "z": 8576
+    },
+    {
+        "name": "Karizak",
+        "category": "Village",
+        "x": 3531,
+        "z": 12815
+    },
+    {
+        "name": "Karkhana District",
+        "category": "Small City",
+        "x": 9150,
+        "z": 4219
+    },
+    {
+        "name": "Kati Golzar",
+        "category": "Village",
+        "x": 6212,
+        "z": 11817
+    },
+    {
+        "name": "Khorramabad",
+        "category": "Small City",
+        "x": 4634,
+        "z": 10833
+    },
+    {
+        "name": "Kucha Dar",
+        "category": "Small City",
+        "x": 4512,
+        "z": 10149
+    },
+    {
+        "name": "Mal Kalay",
+        "category": "Village",
+        "x": 9596,
+        "z": 8867
+    },
+    {
+        "name": "Manda Marz",
+        "category": "Village",
+        "x": 5368,
+        "z": 10615
+    },
+    {
+        "name": "Marz-e Lut",
+        "category": "Village",
+        "x": 13780,
+        "z": 12761
+    },
+    {
+        "name": "Mian Dara",
+        "category": "Village",
+        "x": 8870,
+        "z": 12493
+    },
+    {
+        "name": "Mian Deh",
+        "category": "Village",
+        "x": 7326,
+        "z": 4161
+    },
+    {
+        "name": "Nasdar-Beton Factory",
+        "category": "Village",
+        "x": 9706,
+        "z": 6563
+    },
+    {
+        "name": "Nasdara",
+        "category": "Large City",
+        "x": 9632,
+        "z": 4075
+    },
+    {
+        "name": "No Abad",
+        "category": "Small City",
+        "x": 7021,
+        "z": 5019
+    },
+    {
+        "name": "OKB-754",
+        "category": "Small City",
+        "x": 6908,
+        "z": 10058
+    },
+    {
+        "name": "Panj Asyab",
+        "category": "Village",
+        "x": 5829,
+        "z": 13559
+    },
+    {
+        "name": "Pay-e Kuh",
+        "category": "Village",
+        "x": 6312,
+        "z": 5732
+    },
+    {
+        "name": "Payan Kalay",
+        "category": "Village",
+        "x": 9328,
+        "z": 7527
+    },
+    {
+        "name": "Pesh Dasht",
+        "category": "Village",
+        "x": 11351,
+        "z": 9476
+    },
+    {
+        "name": "Pesh Kuh",
+        "category": "Small City",
+        "x": 3714,
+        "z": 10925
+    },
+    {
+        "name": "Pir Kalay",
+        "category": "Village",
+        "x": 7669,
+        "z": 8669
+    },
+    {
+        "name": "Qala-e Kuhna",
+        "category": "Village",
+        "x": 4491,
+        "z": 12228
+    },
+    {
+        "name": "Registan District",
+        "category": "Small City",
+        "x": 10683,
+        "z": 4679
+    },
+    {
+        "name": "Sabz Pashan",
+        "category": "Village",
+        "x": 4571,
+        "z": 11724
+    },
+    {
+        "name": "Sabzabad",
+        "category": "Small City",
+        "x": 6854,
+        "z": 7404
+    },
+    {
+        "name": "Salar Abad",
+        "category": "Village",
+        "x": 7923,
+        "z": 9611
+    },
+    {
+        "name": "Sar-e Deh",
+        "category": "Village",
+        "x": 3005,
+        "z": 6277
+    },
+    {
+        "name": "Sarman-Naft Refinery",
+        "category": "Village",
+        "x": 10767,
+        "z": 5927
+    },
+    {
+        "name": "Shah Yailaq",
+        "category": "Small City",
+        "x": 10334,
+        "z": 8226
+    },
+    {
+        "name": "Shinkalay",
+        "category": "Village",
+        "x": 8386,
+        "z": 10159
+    },
+    {
+        "name": "Shinkay Wadi",
+        "category": "Village",
+        "x": 7040,
+        "z": 12021
+    },
+    {
+        "name": "Suvin Shahr",
+        "category": "Village",
+        "x": 5759,
+        "z": 12586
+    },
+    {
+        "name": "Terminal Nas",
+        "category": "Small City",
+        "x": 10921,
+        "z": 3810
+    },
+    {
+        "name": "Tor Dara",
+        "category": "Village",
+        "x": 4165,
+        "z": 9324
+    },
+    {
+        "name": "Tut Dara",
+        "category": "Village",
+        "x": 5484,
+        "z": 8066
+    },
+    {
+        "name": "Tut Mian",
+        "category": "Village",
+        "x": 7915,
+        "z": 6771
+    },
+    {
+        "name": "Varzaneh",
+        "category": "Village",
+        "x": 13397,
+        "z": 12116
+    },
+    {
+        "name": "Yak Chinar",
+        "category": "Village",
+        "x": 5825,
+        "z": 9690
+    },
+    {
+        "name": "Ziarat District",
+        "category": "Small City",
+        "x": 10133,
+        "z": 4163
+    },
+    {
+        "name": "Zulfiqar Missile Base",
+        "category": "Village",
+        "x": 2696,
+        "z": 9693
+    }
+]

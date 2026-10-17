@@ -700,4 +700,133 @@
 			<item name="Mag_STANAG_60Rnd" chance="0.05" />
 			<item name="Mag_AKM_Drum75Rnd" chance="0.05" />
 		</cargo>
+		<!-- Clan Wars weapon kits (ported from Chernarus) -->
+		<attachments chance="1.0" name="Battery">
+			<item name="Battery9V" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="AK_Buttstocks">
+			<item name="AK74_WoodBttstck" chance="0.1" />
+			<item name="AKS74U_Bttstck" chance="0.1" />
+			<item name="AK_FoldingBttstck" chance="0.1" />
+			<item name="AK_FoldingBttstck_Black" chance="0.1" />
+			<item name="AK_FoldingBttstck_Green" chance="0.1" />
+			<item name="AK_PlasticBttstck" chance="0.1" />
+			<item name="AK_PlasticBttstck_Black" chance="0.1" />
+			<item name="AK_PlasticBttstck_Green" chance="0.1" />
+			<item name="AK_WoodBttstck" chance="0.1" />
+			<item name="AK_WoodBttstck_Black" chance="0.1" />
+			<item name="AK_WoodBttstck_Camo" chance="0.1" />
+		</attachments>
+		<attachments chance="1.0" name="AK_Handguards">
+			<item name="AK74_Hndgrd" chance="0.125" />
+			<item name="AK_PlasticHndgrd" chance="0.125" />
+			<item name="AK_RailHndgrd" chance="0.125" />
+			<item name="AK_RailHndgrd_Black" chance="0.125" />
+			<item name="AK_RailHndgrd_Green" chance="0.125" />
+			<item name="AK_WoodHndgrd" chance="0.125" />
+			<item name="AK_WoodHndgrd_Black" chance="0.125" />
+			<item name="AK_WoodHndgrd_Camo" chance="0.125" />
+		</attachments>
+		<attachments chance="0.5" name="AK_CQB_Optics">
+			<item name="KobraOptic" chance="0.5" />
+			<item name="KashtanOptic" chance="0.5" />
+		</attachments>
+		<attachments chance="0.5" name="AK_Optics">
+			<item name="KobraOptic" chance="0.4" />
+			<item name="KashtanOptic" chance="0.3" />
+			<item name="PSO1Optic" chance="0.1" />
+			<item name="PSO11Optic" chance="0.1" />
+			<item name="PSO6Optic" chance="0.1" />
+		</attachments>
+		<attachments chance="1.0" name="AK_Sniper_Optics">
+			<item name="PSO1Optic" chance="0.4" />
+			<item name="PSO11Optic" chance="0.3" />
+			<item name="PSO6Optic" chance="0.3" />
+		</attachments>
+		<attachments chance="0.25" name="AK_Suppressors">
+			<item name="AK_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="AK_Magazines">
+			<item name="Mag_AK74_30Rnd" chance="0.6" />
+			<item name="Mag_AK74_45Rnd" chance="0.4" />
+		</attachments>
+		<attachments chance="1.0" name="AKM_Magazines">
+			<item name="Mag_AKM_30Rnd" chance="0.7" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.3" />
+		</attachments>
+		<attachments chance="1.0" name="AK101_Magazines">
+			<item name="Mag_AK101_30Rnd" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="M4_Buttstocks">
+			<item name="M4_CQBBttstck" chance="0.34" />
+			<item name="M4_MPBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0" name="M4_Handguards">
+			<item name="M4_MPHndgrd" chance="0.20" />
+			<item name="M4_PlasticHndgrd" chance="0.20" />
+			<item name="M4_RISHndgrd" chance="0.20" />
+			<item name="M4_RISHndgrd_Black" chance="0.20" />
+			<item name="M4_RISHndgrd_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="0.5" name="M4_CQB_Optics">
+			<item name="ReflexOptic" chance="0.17" />
+			<item name="ACOGOptic" chance="0.17" />
+			<item name="ACOGOptic_6x" chance="0.16" />
+			<item name="M68Optic" chance="0.17" />
+			<item name="M4_T3NRDSOptic" chance="0.16" />
+			<item name="HoloOptic" chance="0.17" />
+		</attachments>
+		<attachments chance="0.5" name="M4_Optics">
+			<item name="ReflexOptic" chance="0.15" />
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.15" />
+			<item name="M68Optic" chance="0.15" />
+			<item name="M4_T3NRDSOptic" chance="0.1" />
+			<item name="HoloOptic" chance="0.15" />
+			<item name="MK4Optic_black" chance="0.05" />
+			<item name="MK4Optic_green" chance="0.05" />
+			<item name="MK4Optic_tan" chance="0.05" />
+		</attachments>
+		<attachments chance="1.0" name="M4_Sniper_Optics">
+			<item name="MK4Optic_black" chance="0.34" />
+			<item name="MK4Optic_green" chance="0.33" />
+			<item name="MK4Optic_tan" chance="0.33" />
+		</attachments>
+		<attachments chance="0.25" name="M4_Suppressors">
+			<item name="M4_Suppressor" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="M4_Magazines">
+			<item name="Mag_STANAG_30Rnd" chance="0.5" />
+			<item name="Mag_STANAG_60Rnd" chance="0.2" />
+			<item name="Mag_CMAG_30Rnd" chance="0.2" />
+			<item name="Mag_CMAG_40Rnd" chance="0.1" />
+		</attachments>
+		<attachments chance="1.0" name="Mosin_Optics">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0" name="Hunting_Optics">
+			<item name="HuntingOptic" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="FAL_Buttstocks">
+			<item name="Fal_FoldingBttstck" chance="0.5" />
+			<item name="Fal_OeBttstck" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="MP5_Buttstocks">
+			<item name="MP5k_StockBttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="MP5_Handguards">
+			<item name="MP5_PlasticHndgrd" chance="0.5" />
+			<item name="MP5_RailHndgrd" chance="0.5" />
+		</attachments>
+		<attachments chance="1.0" name="PP19_Buttstocks">
+			<item name="PP19_Bttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="Saiga_Buttstocks">
+			<item name="Saiga_Bttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="SCAR_Buttstocks">
+			<item name="SCAR_PrecisionBttstck" chance="0.5" />
+			<item name="SCAR_StockBttstck" chance="0.5" />
+		</attachments>
 </randompresets>

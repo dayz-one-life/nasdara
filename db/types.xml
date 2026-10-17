@@ -9236,7 +9236,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-    <type name="Glock_Tan">
+    <type name="Glock19_Tan">
         <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>

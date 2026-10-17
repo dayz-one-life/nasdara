@@ -50,7 +50,11 @@
   "WorldsData": {
     "lightingConfig": 3,
     "bunkerBroadcastEnabled": true,
-    "objectSpawnersArr": [],
+    "objectSpawnersArr": [
+      "./custom/booster-kits.json",
+      "./custom/faction-supplies.json",
+      "./custom/awards.json"
+    ],
     "environmentMinTemps": [
       3.4,
       5.4,

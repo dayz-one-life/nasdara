@@ -7,6 +7,9 @@
     "disableRespawnInUnconsciousness": true
   },
   "PlayerData": {
+    "spawnGearPresetFiles": [
+      "./custom/loadout.json"
+    ],
     "disablePersonalLight": false,
     "StaminaData": {
       "sprintStaminaModifierErc": 0,

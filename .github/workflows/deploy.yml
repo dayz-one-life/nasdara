@@ -1,0 +1,84 @@
+name: FTP Deploy (on release)
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0  # lets the action compare history for accurate diffs
+
+      # ⚠️ King of the Hill: the clan-wars bot builds each session's spawn file
+      # from koth/default/cfgplayerspawnpoints.xml and restores it from there
+      # afterwards, and reads the normal CleanupLifetimeDead{Player,Infected} and
+      # CleanupAvoidance values back out of koth/default/globals.xml. They are
+      # COPIED here, never committed, so a stale mirror can never undo an edit
+      # to the real file. Without this step the bot refuses to open a KotH
+      # session at all.
+      - name: Stage the KotH defaults
+        run: |
+          mkdir -p koth/default
+          cp cfgplayerspawnpoints.xml koth/default/
+          cp db/globals.xml koth/default/
+
+      # ⚠️ The repo's cfggameplay.json must always carry the DEFAULT loadout:
+      # the bot swaps in the koth- presets for one session only.
+      - name: Refuse a KotH preset in the default cfggameplay.json
+        run: |
+          if grep -q '"./custom/koth-' cfggameplay.json; then
+            echo "cfggameplay.json names a koth- preset; the repo must hold the default loadout" >&2
+            exit 1
+          fi
+
+      - name: Deploy changed files via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          port: 21
+
+          # Only changed files are uploaded by default; this state file
+          # on the server tracks last deploy. Keep it!
+          state-name: .ftp-deploy-sync-state.json
+
+          # Where to upload from (repo root) and to: the Clan Wars server's
+          # /dayzxb_missions/dayzOffline.nasdara/
+          local-dir: ./
+          server-dir: ${{ secrets.FTP_DIRECTORY }}
+
+          # DO NOT wipe the server (keeps incremental behavior)
+          dangerous-clean-slate: false
+
+          # Robust excludes (handles top-level and nested folders)
+          exclude: |
+            .git/**
+            **/.git/**
+            .github/**
+            **/.github/**
+            .claude/**
+            **/.claude/**
+            .superpowers/**
+            **/.superpowers/**
+            docs/**
+            node_modules/**
+            **/node_modules/**
+            vendor/**
+            **/vendor/**
+            **/*.md
+            .gitignore
+            .gitattributes
+            # Repo tooling, never mission files
+            scripts/**
+            .keel.json
+            .hull.json
+            .bosun.json
+            .stow.json
+            CODEOWNERS

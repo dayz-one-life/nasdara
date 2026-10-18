@@ -1293,7 +1293,7 @@
 		<cargo preset="toolsCity" />
 	</type>
 	<type name="DirtBikeHelmet_Black">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1301,7 +1301,7 @@
 		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Red">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1309,7 +1309,7 @@
 		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Police">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1317,7 +1317,7 @@
 		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Khaki">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1325,7 +1325,7 @@
 		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Green">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1333,7 +1333,7 @@
 		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Chernarus">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -1341,7 +1341,7 @@
 		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Blue">
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">

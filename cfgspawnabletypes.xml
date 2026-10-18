@@ -1296,7 +1296,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
@@ -1304,7 +1304,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
@@ -1312,7 +1312,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
@@ -1320,7 +1320,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
@@ -1328,7 +1328,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
@@ -1336,7 +1336,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
@@ -1344,7 +1344,7 @@
 		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="1.00">
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>

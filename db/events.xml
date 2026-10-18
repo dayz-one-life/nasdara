@@ -1225,13 +1225,13 @@
         <nominal>27</nominal>
         <min>27</min>
         <max>27</max>
-        <lifetime>345600</lifetime>
+        <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>100</distanceradius>
         <cleanupradius>200</cleanupradius>
         <secondary>InfectedArmy</secondary>
-        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>

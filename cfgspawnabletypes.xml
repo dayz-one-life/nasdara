@@ -79,20 +79,26 @@
 	</type>
 	
 	<type name="PlateCarrierVest">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="PlateCarrierVest_Black">
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="PlateCarrierHolster_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="PlateCarrierPouches_Black" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="PlateCarrierVest_Green">
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="PlateCarrierHolster_Green" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="1.00">
 			<item name="PlateCarrierPouches_Green" chance="1.00" />
 		</attachments>
 	</type>
@@ -3775,6 +3781,22 @@
 	<type name="PowerGenerator">
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest_Camo">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest_Winter">
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Winter" chance="1.00" />
 		</attachments>
 	</type>
 	<!-- VEHICLES -->

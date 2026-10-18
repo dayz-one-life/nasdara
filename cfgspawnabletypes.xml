@@ -566,6 +566,9 @@
 		<cargo preset="mixHunter" />
 	</type>
 	<type name="HuntingJacket_Desert">
+		<cargo chance="1.00">
+			<item name="HunterPants_Desert" chance="1.00" />
+		</cargo>
 		<cargo preset="mixHunter" />
 	</type>
 	<type name="HuntingJacket_Winter">
@@ -650,12 +653,21 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ParamedicJacket_Blue">
+		<cargo chance="1.00">
+			<item name="ParamedicPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="ParamedicJacket_Crimson">
+		<cargo chance="1.00">
+			<item name="ParamedicPants_Crimson" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="ParamedicJacket_Green">
+		<cargo chance="1.00">
+			<item name="ParamedicPants_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="ParamedicPants_Blue">
@@ -743,81 +755,129 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ManSuit_Black">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Black" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_Beige">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_Blue">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_Brown">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Brown" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_DarkGrey">
+		<cargo chance="1.00">
+			<item name="SlacksPants_DarkGrey" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_LightGrey">
+		<cargo chance="1.00">
+			<item name="SlacksPants_LightGrey" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_White">
+		<cargo chance="1.00">
+			<item name="SlacksPants_White" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="ManSuit_Khaki">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Khaki" chance="1.00" />
+		</cargo>
 		<cargo chance="0.02">
 			<item name="Derringer_Black" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_Beige">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_Black">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Black" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_Blue">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_Brown">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Brown" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_DarkGrey">
+		<cargo chance="1.00">
+			<item name="SlacksPants_DarkGrey" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_Khaki">
+		<cargo chance="1.00">
+			<item name="SlacksPants_Khaki" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_LightGrey">
+		<cargo chance="1.00">
+			<item name="SlacksPants_LightGrey" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="WomanSuit_White">
+		<cargo chance="1.00">
+			<item name="SlacksPants_White" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
@@ -832,15 +892,27 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="Sweater_Gray">
+		<cargo chance="1.00">
+			<item name="Jeans_Grey" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Sweater_Blue">
+		<cargo chance="1.00">
+			<item name="Jeans_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Sweater_Green">
+		<cargo chance="1.00">
+			<item name="Jeans_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="Sweater_Red">
+		<cargo chance="1.00">
+			<item name="Jeans_BlueDark" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="MilitarySweater_Livonia">
@@ -871,45 +943,97 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Hoodie_Blue">
+		<cargo chance="1.00">
+			<item name="Jeans_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Hoodie_Black">
+		<cargo chance="1.00">
+			<item name="Jeans_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Hoodie_Brown">
+		<cargo chance="1.00">
+			<item name="Jeans_Brown" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Hoodie_Green">
+		<cargo chance="1.00">
+			<item name="Jeans_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Hoodie_Grey">
+		<cargo chance="1.00">
+			<item name="Jeans_Grey" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Hoodie_Red">
+		<cargo chance="1.00">
+			<item name="Jeans_BlueDark" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TacticalShirt_Grey">
+		<cargo chance="1.00">
+			<item name="CargoPants_Grey" chance="1.00" />
+		</cargo>
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="TacticalShirt_Black">
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="TacticalShirt_Olive">
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="TacticalShirt_Tan">
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo preset="ammoArmy" />
 	</type>
+	<type name="TacticalShirt_ION_Olive">
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="TacticalShirt_ION_Tan">
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
+	</type>
 	<type name="HikingJacket_Black">
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="HikingJacket_Blue">
+		<cargo chance="1.00">
+			<item name="CargoPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="HikingJacket_Red">
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="HikingJacket_Green">
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="Raincoat_Orange">
@@ -934,30 +1058,61 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="M65Jacket_Black">
+		<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="M65Jacket_Khaki">
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="M65Jacket_Tan">
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="M65Jacket_Olive">
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="TTsKOJacket_Camo">
+		<cargo chance="1.00">
+			<item name="TTSKOPants" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
+	<type name="BDUJacket">
+		<cargo chance="1.00">
+			<item name="BDUPants" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="FNOJacket">
+		<cargo chance="1.00">
+			<item name="FNOPants" chance="1.00" />
+		</cargo>
+	</type>
 	<type name="GorkaEJacket_Summer">
+		<cargo chance="1.00">
+			<item name="GorkaPants_Summer" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_Flat">
+		<cargo chance="1.00">
+			<item name="GorkaPants_Flat" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
@@ -974,7 +1129,15 @@
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="RidersJacket_Black">
+		<cargo chance="1.00">
+			<item name="LeatherPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
+	</type>
+	<type name="DenimJacket">
+		<cargo chance="1.00">
+			<item name="Jeans_Blue" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="WoolCoat_Black">
 		<cargo preset="mixVillage" />
@@ -1007,24 +1170,45 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TrackSuitJacket_Black">
+		<cargo chance="1.00">
+			<item name="TrackSuitPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TrackSuitJacket_Blue">
+		<cargo chance="1.00">
+			<item name="TrackSuitPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TrackSuitJacket_Green">
+		<cargo chance="1.00">
+			<item name="TrackSuitPants_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TrackSuitJacket_LightBlue">
+		<cargo chance="1.00">
+			<item name="TrackSuitPants_LightBlue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TrackSuitJacket_Red">
+		<cargo chance="1.00">
+			<item name="TrackSuitPants_Red" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="FirefighterJacket_Beige">
+		<cargo chance="1.00">
+			<item name="FirefightersPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsPolice" />
 	</type>
 	<type name="FirefighterJacket_Black">
+		<cargo chance="1.00">
+			<item name="FirefightersPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsPolice" />
 	</type>
 	<type name="FirefightersPants_Beige">
@@ -1050,8 +1234,21 @@
 		<cargo preset="toolsPolice" />
 	</type>
 	<type name="PrisonUniformJacket">
+		<cargo chance="1.00">
+			<item name="PrisonUniformPants" chance="1.00" />
+		</cargo>
 		<cargo chance="0.10">
 			<item name="Rope" chance="0.14" />
+		</cargo>
+	</type>
+	<type name="PoliceShortSleeveShirt">
+		<cargo chance="1.00">
+			<item name="PolicePants" chance="1.00" />
+		</cargo>
+	</type>
+	<type name="GulagJacket_Grey">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Grey" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="PrisonUniformPants">
@@ -1060,21 +1257,33 @@
 		</cargo>
 	</type>
 	<type name="JumpsuitJacket_Blue">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="SparkPlug" chance="0.14" />
 		</cargo>
 	</type>
 	<type name="JumpsuitJacket_Gray">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Grey" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="SparkPlug" chance="0.14" />
 		</cargo>
 	</type>
 	<type name="JumpsuitJacket_Green">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Green" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="SparkPlug" chance="0.14" />
 		</cargo>
 	</type>
 	<type name="JumpsuitJacket_Red">
+		<cargo chance="1.00">
+			<item name="JumpsuitPants_Red" chance="1.00" />
+		</cargo>
 		<cargo chance="0.01">
 			<item name="SparkPlug" chance="0.14" />
 		</cargo>
@@ -1201,45 +1410,87 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Beige">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Black">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_Black" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_BlueFlowers">
+		<cargo chance="1.00">
+			<item name="WomensShalwarPants_NavyBlue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Brown">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_Brown" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Grey">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_Grey" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_NavyBlue">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_NavyBlue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Olive">
+		<cargo chance="1.00">
+			<item name="WomensShalwarPants_Olive" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Orange">
+		<cargo chance="1.00">
+			<item name="WomensShalwarPants_Orange" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Pink">
+		<cargo chance="1.00">
+			<item name="WomensShalwarPants_Pink" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Purple">
+		<cargo chance="1.00">
+			<item name="WomensShalwarPants_Purple" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Red">
+		<cargo chance="1.00">
+			<item name="WomensShalwarPants_Red" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_SkyBlue">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_SkyBlue" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_White">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_White" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="KameezShirt_Yellow">
+		<cargo chance="1.00">
+			<item name="MensShalwarPants_Beige" chance="1.00" />
+		</cargo>
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="PilotJacket_Brown">
@@ -1252,15 +1503,27 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="MedicalScrubsShirt_Blue">
+		<cargo chance="1.00">
+			<item name="MedicalScrubsPants_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="MedicalScrubsShirt_Green">
+		<cargo chance="1.00">
+			<item name="MedicalScrubsPants_Green" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="MedicalScrubsShirt_White">
+		<cargo chance="1.00">
+			<item name="MedicalScrubsPants_White" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="LabCoat">
+		<cargo chance="1.00">
+			<item name="MedicalScrubsPants_White" chance="1.00" />
+		</cargo>
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="NurseDress_White">
@@ -1270,10 +1533,16 @@
 		<cargo preset="toolsMedic" />
 	</type>
 	<type name="USMCJacket_Desert">
+		<cargo chance="1.00">
+			<item name="USMCPants_Desert" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="USMCJacket_Woodland">
+		<cargo chance="1.00">
+			<item name="USMCPants_Woodland" chance="1.00" />
+		</cargo>
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
@@ -1282,18 +1551,30 @@
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="Blouse_Blue">
+		<cargo chance="1.00">
+			<item name="Skirt_Blue" chance="1.00" />
+		</cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 	</type>
 	<type name="Blouse_Green">
+		<cargo chance="1.00">
+			<item name="Skirt_Yellow" chance="1.00" />
+		</cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 	</type>
 	<type name="Blouse_Violet">
+		<cargo chance="1.00">
+			<item name="Skirt_Red" chance="1.00" />
+		</cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 	</type>
 	<type name="Blouse_White">
+		<cargo chance="1.00">
+			<item name="Skirt_White" chance="1.00" />
+		</cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 	</type>

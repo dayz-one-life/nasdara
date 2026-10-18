@@ -3494,53 +3494,53 @@
 	<type name="AK_Suppressor">
 	</type>
 	<type name="NBCPack_Grey">
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCBootsGray" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
-			<item name="NBCGlovesYellow" chance="1.0" />
+		<attachments chance="1.0">
+			<item name="NBCGlovesGray" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCJacketGray" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCPantsGray" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCHoodGray" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="NBCPack_White">
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCBootsWhite" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCGlovesYellow" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCJacketWhite" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCPantsWhite" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCHoodWhite" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="NBCPack_Yellow">
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCBootsYellow" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCGlovesYellow" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCJacketYellow" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCPantsYellow" chance="1.0" />
 		</attachments>
-		<attachments chance="0.1">
+		<attachments chance="1.0">
 			<item name="NBCHoodYellow" chance="1.0" />
 		</attachments>
 	</type>

@@ -102,6 +102,11 @@
 			<item name="PlateCarrierPouches_Green" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="GorkaHelmet">
+		<attachments chance="1.00">
+			<item name="GorkaHelmetVisor" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="Mich2001Helmet">
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />

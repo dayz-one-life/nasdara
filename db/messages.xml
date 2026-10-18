@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
     <message>
-        <repeat>3</repeat>
-        <text>!! PC PLAYERS MUST LINK THEIR DISCORD TO PLAY !! Link here: https://dayzclanwars.com</text>
-    </message>
-    <message>
         <repeat>5</repeat>
         <text>NEW HERE? Link your gamertag at https://dayzclanwars.com</text>
     </message>
     <message>
         <repeat>5</repeat>
-        <text>FOUND A CLAN: 3 linked players raise one free flag, then claim it on the site.</text>
+        <text>Top referrer each week gets a free weapon spawn!</text>
     </message>
-    <message>
-        <repeat>5</repeat>
-        <text>RAIDS: base damage Fri to Mon. Lowering flags scores all week.</text>
-    </message>
-    <message>
-        <repeat>5</repeat>
-        <text>RULES: https://dayzclanwars.com/guide</text>
-    </message>
-
 </messages>

@@ -5939,28 +5939,40 @@
 			</item>
 		</cargo>
 		<cargo chance="1.0">
-			<item name="PlateCarrierVest" chance="1.0" />
+			<item name="ImprovisedExplosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="PlateCarrierPouches" chance="1.0" />
+			<item name="ImprovisedExplosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="PlateCarrierHolster" chance="1.0" />
+			<item name="ImprovisedExplosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="Battery9V" chance="1.0" />
+			<item name="Plastic_Explosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="Battery9V" chance="1.0" />
+			<item name="Plastic_Explosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="NVGHeadstrap" chance="1.0" />
+			<item name="Plastic_Explosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="NVGoggles" chance="1.0" />
+			<item name="Plastic_Explosive" chance="1.0" />
 		</cargo>
 		<cargo chance="1.0">
-			<item name="BallisticHelmet_Desert" chance="1.0" />
+			<item name="Plastic_Explosive" chance="1.0" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Plastic_Explosive" chance="1.0" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="RemoteDetonator" chance="1.0" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="RemoteDetonator" chance="1.0" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="RemoteDetonator" chance="1.0" />
 		</cargo>
 	</type>
 	<type name="GunCase_Black">

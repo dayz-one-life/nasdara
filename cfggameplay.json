@@ -53,7 +53,9 @@
     "objectSpawnersArr": [
       "./custom/booster-kits.json",
       "./custom/faction-supplies.json",
-      "./custom/awards.json"
+      "./custom/awards.json",
+      "./custom/teleports.json",
+      "./custom/teleport-names.json"
     ],
     "environmentMinTemps": [
       3.4,
@@ -89,6 +91,40 @@
       1.0,
       1.0,
       1.0
+    ],
+    "playerRestrictedAreaFiles": [
+      "./custom/pra-teleport-hub.json",
+      "./custom/pra-teleport-bagh-e-mir.json",
+      "./custom/pra-teleport-bala-kalay.json",
+      "./custom/pra-teleport-bar-kalay.json",
+      "./custom/pra-teleport-bazar-e-kohna.json",
+      "./custom/pra-teleport-bustanshahr.json",
+      "./custom/pra-teleport-dahaneh-e-kavir.json",
+      "./custom/pra-teleport-dara-e-nur.json",
+      "./custom/pra-teleport-darvazeh-e-gharb.json",
+      "./custom/pra-teleport-dashtabad.json",
+      "./custom/pra-teleport-dost-kalay.json",
+      "./custom/pra-teleport-gard-abad.json",
+      "./custom/pra-teleport-kamar-zir.json",
+      "./custom/pra-teleport-karizak.json",
+      "./custom/pra-teleport-mal-kalay.json",
+      "./custom/pra-teleport-manda-marz.json",
+      "./custom/pra-teleport-marz-e-lut.json",
+      "./custom/pra-teleport-mian-deh.json",
+      "./custom/pra-teleport-nasdara.json",
+      "./custom/pra-teleport-pay-e-kuh.json",
+      "./custom/pra-teleport-payan-kalay.json",
+      "./custom/pra-teleport-pesh-dasht.json",
+      "./custom/pra-teleport-pesh-kuh.json",
+      "./custom/pra-teleport-sabz-pashan.json",
+      "./custom/pra-teleport-sabzabad.json",
+      "./custom/pra-teleport-sar-e-deh.json",
+      "./custom/pra-teleport-shinkalay.json",
+      "./custom/pra-teleport-suvin-shahr.json",
+      "./custom/pra-teleport-tor-dara.json",
+      "./custom/pra-teleport-tut-dara.json",
+      "./custom/pra-teleport-tut-mian.json",
+      "./custom/pra-teleport-yak-chinar.json"
     ]
   },
   "BaseBuildingData": {

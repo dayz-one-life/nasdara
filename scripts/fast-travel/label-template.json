@@ -1,0 +1,4820 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Misc_Toilet_Mobile",
+            "pos": [
+                86.0,
+                998.6251831054688,
+                92.0
+            ],
+            "ypr": [
+                -89.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995008111,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999946355819702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999946355819702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999957531690598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995194375515,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999946355819702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999935179948807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999935179948807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995566904545,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995008111,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992772936821,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499994821846485,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995566904545,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992772936821,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999935179948807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499994821846485,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995566904545,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999944493174553,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999946355819702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999912828207016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992772936821,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990351498127,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990351498127,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999912828207016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990724027157,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990724027157,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992772936821,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992586672306,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999886751174927,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999912828207016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990351498127,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990351498127,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999912828207016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999912828207016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990351498127,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499989978969097,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499989978969097,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997988343239,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999961256980896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499989978969097,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999970570206642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999957531690598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999961256980896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999970570206642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999987334012985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.5250015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999985471367836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.5250015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999985471367836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.52470397949219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997988343239,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.54959106445312
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992772936821,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.52489471435547
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999938905239105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.99980926513672,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999985471367836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00028991699219,
+                997.4273071289062,
+                91.52489471435547
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999914690852165,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992400407791,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997429549694,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995194375515,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999938905239105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.84970092773438
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499994821846485,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999946355819702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999957531690598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992400407791,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.94992065429688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999942630529404,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.92501068115234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999938905239105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999970570206642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990165233612,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999914690852165,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.02528381347656
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992400407791,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.00021362304688
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999942630529404,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999914690852165,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999909102916718,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.12555694580078
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.15046691894531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999966844916344,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999961256980896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999961256980896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999970570206642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999964982271194,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990165233612,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999896064400673,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999896064400673,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.25020599365234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999957531690598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499989978969097,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.22529602050781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999918416142464,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999940767884254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995008111,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999957531690598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499993145465851,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992400407791,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999946355819702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999938905239105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999896064400673,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999892339110374,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999892339110374,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02500000037252903,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.35041809082031
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990165233612,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999894201755524,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999894201755524,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999914690852165,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.32550811767578
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999912828207016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992959201336,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990165233612,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999896064400673,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999892339110374,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990165233612,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.1004867553711
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999942630529404,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999922141432762,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                87.00060272216797,
+                997.4273071289062,
+                92.40029907226562
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499992400407791,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999892339110374,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.5250015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499999850988388,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999886751174927,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9002914428711,
+                997.4273071289062,
+                92.45027923583984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999920278787613,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.9502944946289,
+                997.4273071289062,
+                92.3004379272461
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499999664723873,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                91.89994049072266
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999933317303658,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.5250015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999994784593582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499999664723873,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999994784593582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999994784593582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.52470397949219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999992921948433,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.54959106445312
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999992921948433,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.52489471435547
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.0501937866211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499990537762642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999989196658134,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.84951782226562,
+                997.4273071289062,
+                91.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.8499984741211,
+                997.4273071289062,
+                91.52489471435547
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999989196658134,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.55000305175781
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999987334012985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999985471367836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999987334012985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.5999984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999994784593582,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.92529296875,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999970570206642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999981746077538,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999987334012985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999981746077538,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.42536926269531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999892339110374,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999987334012985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.6500015258789
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997988343239,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.97528839111328,
+                997.4273071289062,
+                92.20022583007812
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999910965561867,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999987334012985,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.69999694824219
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997429549694,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997429549694,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999983608722687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.7249984741211
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997429549694,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997802078724,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.749755859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499997429549694,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995194375515,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499994821846485,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499994821846485,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999961256980896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.79972076416016
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999968707561493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.7750015258789,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999942630529404,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.82499694824219,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.80000305175781,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999937042593956,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.75,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.024999957531690598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoxWooden",
+            "pos": [
+                86.85031127929688,
+                997.4273071289062,
+                91.82479095458984
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.02499995008111,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

@@ -59,10 +59,10 @@ STRUCTURE_CLEAR = 10.0   # min metres from anything the map draws as a structure
 # a player who logs in inside it, so these only need to catch a logout at the
 # object: 3 x 3 m, square so the object's yaw does not matter, and 6 m tall to
 # allow for origins above the ground. Nasdara has no well pumps and only 8
-# outhouses, so the entrance is the small shed Land_Shed_W1 (519 of them).
+# outhouses, so the entrances are every shed, Land_Shed_* (2,189 of them).
 BOX = [3, 6, 3]
 ENTRANCES = {
-    "Land_Shed_W1": BOX,
+    "Land_Shed_": BOX,
 }
 TOILET_BOX = [0.9, 2.0, 0.9]
 # Where a hub entrance drops the player: the open side of the U, as on Livonia

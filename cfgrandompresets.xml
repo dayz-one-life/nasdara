@@ -284,7 +284,7 @@
 			<item name="PakolHat_Grey" chance="0.0625" />
 			<item name="PakolHat_White" chance="0.0625" />
 		</attachments>
-		<attachments chance="0.1" name="bagsHunter">
+		<attachments chance="0.25" name="bagsHunter">
 			<item name="ArmyPouch_Beige" chance="0.35" />
 			<item name="ArmyPouch_Green" chance="0.35" />
 			<item name="CourierBag" chance="0.20" />
@@ -318,7 +318,7 @@
 				<item name="Pickaxe" chance="0.8" />
 				<item name="Shovel" chance="0.8" />
 		</attachments>
-		<attachments chance="0.1" name="bagsVillage">
+		<attachments chance="0.25" name="bagsVillage">
 				<item name="Slingbag_Black" chance="0.30" />
 				<item name="SlingBag_Gray" chance="0.30" />
 				<item name="SlingBag_Brown" chance="0.30" />
@@ -363,7 +363,7 @@
 			<item name="SportGlasses_Green" chance="0.10" />
 			<item name="SportGlasses_Orange" chance="0.10" />
 		</attachments>
-		<attachments chance="0.1" name="bagsCity">
+		<attachments chance="0.25" name="bagsCity">
 			<item name="Slingbag_Gray" chance="0.20" />
 			<item name="Slingbag_Brown" chance="0.20" />
 			<item name="Slingbag_Black" chance="0.20" />
@@ -432,7 +432,7 @@
 			<item name="UKAssVest_Khaki" chance="0.25" />
 			<item name="SmershVest" chance="0.25" />
 		</attachments>
-		<attachments chance="0.08" name="bagsArmy">
+		<attachments chance="0.25" name="bagsArmy">
 			<item name="DuffelBagSmall_Camo" chance="0.10" />
 			<item name="DuffelBagSmall_Green" chance="0.10" />
 			<item name="DuffelBagSmall_Medical" chance="0.10" />

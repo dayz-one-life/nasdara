@@ -2529,7 +2529,7 @@
         <category name="containers"/>
     </type>
     <type name="Aug">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
         <min>3</min>
@@ -11161,15 +11161,18 @@
         <value name="Tier3"/>
     </type>
     <type name="HuntingBag_Hannah">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>2600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="HuntingJacket_Autumn">
         <nominal>0</nominal>
@@ -14222,7 +14225,7 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
         <min>3</min>
@@ -14235,30 +14238,30 @@
         <value name="Unique"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
-        <value name="Unique"/>
+        <usage name="MilitaryWest"/>
+        <usage name="MilitaryEast"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
-        <value name="Unique"/>
+        <usage name="MilitaryWest"/>
+        <usage name="MilitaryEast"/>
     </type>
     <type name="M4_CQBBttstck">
         <nominal>0</nominal>
@@ -16922,8 +16925,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="MountainBag_Green">
         <nominal>23</nominal>
@@ -16936,8 +16937,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="MountainBag_Orange">
         <nominal>23</nominal>
@@ -16950,8 +16949,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="MountainBag_Red">
         <nominal>23</nominal>
@@ -16964,8 +16961,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>
@@ -24264,7 +24259,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
     </type>
     <type name="TaloonBag_Green">
         <nominal>30</nominal>
@@ -24277,8 +24271,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="TaloonBag_Orange">
         <nominal>30</nominal>
@@ -24291,8 +24283,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="TaloonBag_Violet">
         <nominal>30</nominal>
@@ -24305,7 +24295,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
     </type>
     <type name="TankerHelmet">
         <nominal>12</nominal>

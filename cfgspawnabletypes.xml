@@ -5299,16 +5299,19 @@
 			<item name="Rope" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="BrickTrowel" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="BrickTrowel" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="LargeTent" chance="1.00" />
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="LargeTent" chance="1.00" />
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="Truck_01_Covered_Blue">
@@ -5586,16 +5589,19 @@
 			<item name="Rope" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="BrickTrowel" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="BrickTrowel" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="LargeTent" chance="1.00" />
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="LargeTent" chance="1.00" />
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="Truck_01_Covered_Orange">
@@ -5873,16 +5879,19 @@
 			<item name="Rope" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="BrickTrowel" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="CarTent" chance="1.00" />
+			<item name="BrickTrowel" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="LargeTent" chance="1.00" />
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="LargeTent" chance="1.00" />
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="StorageBox_Wooden">

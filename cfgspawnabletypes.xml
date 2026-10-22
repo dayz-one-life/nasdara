@@ -5281,18 +5281,6 @@
 			<item name="MetalWire" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Rope" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
@@ -5303,6 +5291,15 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BrickTrowel" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="MortarMix_Opened" chance="1.00" />
@@ -5571,18 +5568,6 @@
 			<item name="MetalWire" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Rope" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
@@ -5593,6 +5578,15 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BrickTrowel" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="MortarMix_Opened" chance="1.00" />
@@ -5861,18 +5855,6 @@
 			<item name="MetalWire" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BarbedWire" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Rope" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
@@ -5883,6 +5865,15 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BrickTrowel" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="MortarMix_Opened" chance="1.00" />

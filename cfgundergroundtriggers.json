@@ -41395,6 +41395,490 @@
             "InterpolationSpeed": 0.0,
             "UseLinePointFade": 0,
             "AmbientSoundSet": "ambient_Irrigation_Tunnel_loop_SoundSet"
+        },
+        {
+            "Comment": "NoBuild_EastPOI",
+            "CustomSpawn": 0,
+            "Position": [
+                14831.0,
+                500.0,
+                7856.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                500.0,
+                1000.0,
+                500.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_01",
+            "CustomSpawn": 0,
+            "Position": [
+                10130.274,
+                250.0,
+                8182.391
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                265.231,
+                300.0,
+                49.244
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_02",
+            "CustomSpawn": 0,
+            "Position": [
+                10046.121,
+                250.0,
+                8257.878
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                47.775,
+                300.0,
+                12.71
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_03",
+            "CustomSpawn": 0,
+            "Position": [
+                10080.281,
+                302.613,
+                8235.649
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                33.16,
+                194.775,
+                2.701
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_04",
+            "CustomSpawn": 0,
+            "Position": [
+                10178.005,
+                250.0,
+                8187.985
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                184.336,
+                300.0,
+                2.701
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_05",
+            "CustomSpawn": 0,
+            "Position": [
+                10081.998,
+                302.613,
+                8240.013
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                32.419,
+                194.775,
+                6.689
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_06",
+            "CustomSpawn": 0,
+            "Position": [
+                10101.629,
+                302.692,
+                8230.438
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                11.305,
+                194.616,
+                6.689
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_07",
+            "CustomSpawn": 0,
+            "Position": [
+                10184.793,
+                250.0,
+                8189.876
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                173.792,
+                300.0,
+                6.689
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_08",
+            "CustomSpawn": 0,
+            "Position": [
+                10084.524,
+                302.613,
+                8244.349
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                33.16,
+                194.775,
+                3.36
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_09",
+            "CustomSpawn": 0,
+            "Position": [
+                10181.679,
+                250.0,
+                8195.517
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                184.336,
+                300.0,
+                0.761
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_10",
+            "CustomSpawn": 0,
+            "Position": [
+                10118.21,
+                250.0,
+                8228.331
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                41.476,
+                300.0,
+                2.62
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_11",
+            "CustomSpawn": 0,
+            "Position": [
+                10146.072,
+                303.438,
+                8213.489
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                21.661,
+                193.124,
+                0.367
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_12",
+            "CustomSpawn": 0,
+            "Position": [
+                10211.463,
+                250.0,
+                8184.617
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                121.239,
+                300.0,
+                5.798
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_13",
+            "CustomSpawn": 0,
+            "Position": [
+                10145.284,
+                303.438,
+                8215.698
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                18.31,
+                193.124,
+                2.952
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_14",
+            "CustomSpawn": 0,
+            "Position": [
+                10154.688,
+                305.306,
+                8211.111
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                2.656,
+                189.388,
+                2.952
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_15",
+            "CustomSpawn": 0,
+            "Position": [
+                10156.194,
+                303.438,
+                8210.376
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                0.736,
+                193.124,
+                2.952
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_16",
+            "CustomSpawn": 0,
+            "Position": [
+                10061.335,
+                250.0,
+                8263.367
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                70.312,
+                300.0,
+                10.536
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_17",
+            "CustomSpawn": 0,
+            "Position": [
+                10096.3,
+                301.449,
+                8246.314
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                7.532,
+                197.102,
+                10.536
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_18",
+            "CustomSpawn": 0,
+            "Position": [
+                10118.087,
+                250.0,
+                8231.606
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                44.567,
+                300.0,
+                3.199
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_19",
+            "CustomSpawn": 0,
+            "Position": [
+                10147.981,
+                303.438,
+                8217.404
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                21.661,
+                193.124,
+                2.519
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_20",
+            "CustomSpawn": 0,
+            "Position": [
+                10184.593,
+                250.0,
+                8205.019
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                187.428,
+                300.0,
+                7.357
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
+        },
+        {
+            "Comment": "NoBuild_Mansion_21",
+            "CustomSpawn": 0,
+            "Position": [
+                10168.001,
+                250.0,
+                8259.743
+            ],
+            "Orientation": [
+                26.0,
+                0.0,
+                0.0
+            ],
+            "Size": [
+                265.231,
+                300.0,
+                76.508
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0
         }
     ]
 }

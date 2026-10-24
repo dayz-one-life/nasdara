@@ -29086,14 +29086,15 @@
 						<point pos="2.496704 0.048363 -0.017822" range="0.510986" height="1.277466" />
 				</container>
 		</group>
-		<group name="Land_Tunnel_Single_Bunker" lootmax="25">
+		<group name="Land_Tunnel_Single_Bunker" lootmax="40">
 				<usage name="Military" />
 				<usage name="MilitaryWest" />
 				<usage name="MilitaryEast" />
-				<container name="lootFloor" lootmax="10">
+				<value name="Unique" />
+				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="clothes" />
+						<category name="weapons" />
 						<tag name="floor" />
 						<point pos="9.280202 2.200012 -12.440561" range="1.199951" height="1.480133" />
 						<point pos="11.707063 2.200012 -10.354280" range="0.931113" height="1.749908" />

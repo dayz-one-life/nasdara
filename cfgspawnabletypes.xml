@@ -5310,6 +5310,57 @@
 		<cargo chance="1.00">
 			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="Truck_01_Covered_Blue">
 		<attachments chance="1.00">
@@ -5597,6 +5648,57 @@
 		<cargo chance="1.00">
 			<item name="MortarMix_Opened" chance="1.00" />
 		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<attachments chance="1.00">
@@ -5883,6 +5985,57 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="MortarMix_Opened" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CommonBrick" chance="1.00" />
 		</cargo>
 	</type>
 	<type name="StorageBox_Wooden">

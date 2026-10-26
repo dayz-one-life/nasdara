@@ -29,7 +29,19 @@
         <value name="Unique"/>
     </type>
     <type name="AK101">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>3600</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="MilitaryEast"/>
+    </type>
+    <type name="AK101_Black">
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>2</min>
@@ -40,23 +52,11 @@
         <category name="weapons"/>
         <usage name="MilitaryEast"/>
     </type>
-    <type name="AK101_Black">
-        <nominal>3</nominal>
-        <lifetime>28800</lifetime>
-        <restock>3600</restock>
-        <min>1</min>
-        <quantmin>100</quantmin>
-        <quantmax>100</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="weapons"/>
-        <usage name="MilitaryEast"/>
-    </type>
     <type name="AK101_Green">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -78,10 +78,10 @@
         <value name="Tier3"/>
     </type>
     <type name="AK74_Black">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -91,10 +91,10 @@
         <value name="Tier3"/>
     </type>
     <type name="AK74_Green">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -132,10 +132,10 @@
         <value name="Tier3"/>
     </type>
     <type name="AKM">
-        <nominal>6</nominal>
+        <nominal>12</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>3</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2542,10 +2542,10 @@
         <value name="Unique"/>
     </type>
     <type name="AugShort">
-        <nominal>6</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7581,10 +7581,10 @@
         <value name="Unique"/>
     </type>
     <type name="FAMAS">
-        <nominal>6</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14149,10 +14149,10 @@
         <category name="lootdispatch"/>
     </type>
     <type name="M16A2">
-        <nominal>6</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14234,10 +14234,10 @@
         <value name="Unique"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14247,10 +14247,10 @@
         <usage name="MilitaryEast"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -17950,10 +17950,10 @@
         <value name="Tier3"/>
     </type>
     <type name="PP19">
-        <nominal>11</nominal>
+        <nominal>22</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>8</min>
+        <min>16</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -20080,10 +20080,10 @@
         <value name="Unique"/>
     </type>
     <type name="SCARH_Black">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -20107,10 +20107,10 @@
         <value name="Tier3"/>
     </type>
     <type name="SCARL_Black">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -20293,10 +20293,10 @@
         <category name="lootdispatch"/>
     </type>
     <type name="SVD">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>

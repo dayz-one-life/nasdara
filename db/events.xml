@@ -838,7 +838,7 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="8" lootmin="4" max="10" min="10" type="Land_Mil_ContainerHabitat_Armory_Locked_Green_DE"/>
+            <child lootmax="8" lootmin="4" max="25" min="10" type="Land_Mil_ContainerHabitat_Armory_Locked_Green_DE"/>
         </children>
     </event>
     <event name="StaticFridgeTest">

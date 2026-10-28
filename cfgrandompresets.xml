@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
-		<cargo chance="0.25" name="keysArmy">
+		<cargo chance="0.1" name="keysArmy">
 				<item name="ShippingContainerKeys_Green" chance="1.00" />
 		</cargo>
 		<cargo chance="0.15" name="foodHermit">

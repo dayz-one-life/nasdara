@@ -816,28 +816,6 @@
                     "complexChildrenTypes": []
                 }
             ]
-        },
-        {
-            "slotName": "shoulderL",
-            "discreteItemSets": [
-                {
-                    "itemType": "Ruger1022",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": 2,
-                    "simpleChildrenTypes": [
-                        "HuntingOptic",
-                        "Mag_Ruger1022_30Rnd"
-                    ],
-                    "simpleChildrenUseDefaultAttributes": false,
-                    "complexChildrenTypes": []
-                }
-            ]
         }
     ],
     "discreteUnsortedItemSets": [
@@ -872,6 +850,16 @@
                         "quantityMax": 1.0
                     },
                     "quickBarSlot": 1
+                },
+                {
+                    "itemType": "HuntingKnife",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2
                 },
                 {
                     "itemType": "Honey",

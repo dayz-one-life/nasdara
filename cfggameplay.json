@@ -188,6 +188,6 @@
     "protectionResetTime": 3600
   },
   "SandstormData": {
-    "sandstormFrequency": 1.0
+    "sandstormFrequency": 0.0
   }
 }

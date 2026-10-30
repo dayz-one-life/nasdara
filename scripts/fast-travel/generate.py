@@ -22,9 +22,8 @@ the masks from build_masks.py, WATER_BUFFER from water and STRUCTURE_CLEAR
 from anything the map draws as a structure, which catches what mapgrouppos.xml
 leaves out (non-lootable buildings, piers, rail, roads, containers).
 
-Note the engine sends a walk-in player to the CLOSEST safe position to where
-they stand, not a random one (PlayerRestrictedAreaInstance.GetClosestSafePos3D),
-so from the hub each town will likely always pick the same one of its points.
+The ADM logs show players from the same toilet landing on different points of
+a town, so every point gets used and one bad point catches a share of arrivals.
 """
 import gzip
 import json
@@ -54,6 +53,13 @@ LARGE_CLEARANCE = {      # big footprints, matched by substring
 }
 WATER_BUFFER = 8.0
 STRUCTURE_CLEAR = 10.0   # min metres from anything the map draws as a structure
+# Arrival points found inside rocks, which neither mapgrouppos.xml nor the
+# masks know about: (x, z). A pick within BLOCKED_CLEAR metres of one is
+# swapped out on its own, so the town's other points stay where players know.
+BLOCKED = [
+    (9372.0, 12144.0),   # Kamar Zir: all 3 arrivals to 2026-10-30 ended in suicide on the spot
+]
+BLOCKED_CLEAR = 60.0
 
 # Hub entrances: class prefix -> PRA box size [x, y, z] (metres). A PRA moves
 # a player who logs in inside it, so these only need to catch a logout at the
@@ -142,6 +148,21 @@ def spread(spots, cx, cz, south):
     return pick, gap
 
 
+def blocked(p):
+    return any(math.hypot(p[0] - bx, p[1] - bz) < BLOCKED_CLEAR for bx, bz in BLOCKED)
+
+
+def unblock(pick, spots):
+    """Swap each pick near a BLOCKED point for the unblocked spot farthest
+    from the other picks, leaving those where they are."""
+    ok = [s for s in spots if not blocked(s)]
+    for i, p in enumerate(pick):
+        if blocked(p):
+            rest = pick[:i] + pick[i + 1:]
+            pick[i] = max(ok, key=lambda s: min(math.hypot(s[0] - q[0], s[1] - q[1]) for q in rest))
+    return pick
+
+
 def arrival_points(town, objects, water, structures):
     """POINTS clear, dry spots around the town, at least MIN_SPACING apart.
     Relaxes building clearance first, then widens the ring outward."""
@@ -154,6 +175,7 @@ def arrival_points(town, objects, water, structures):
             if len(spots) >= POINTS:
                 pick, gap = spread(spots, cx, cz, (lo + hi + extra) / 2)
                 if gap >= MIN_SPACING:
+                    pick = unblock(pick, spots)
                     return [[round(x, 1), round(z, 1)] for x, z in pick], base, hi + extra
             if base <= CLEARANCE_FLOOR:
                 break

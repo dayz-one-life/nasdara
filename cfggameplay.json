@@ -58,18 +58,18 @@
       "./custom/teleport-names.json"
     ],
     "environmentMinTemps": [
-      3.4,
-      5.4,
+      2.4,
+      4.4,
+      6.4,
       7.4,
       8.4,
-      9.4,
-      12.4,
-      14.4,
-      13.4,
       11.4,
-      8.4,
+      13.4,
+      12.4,
+      10.4,
       7.4,
-      4.4
+      6.4,
+      3.4
     ],
     "environmentMaxTemps": [
       16.4,

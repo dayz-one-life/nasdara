@@ -3,12 +3,12 @@
 		<cargo chance="0.1" name="keysArmy">
 				<item name="ShippingContainerKeys_Green" chance="1.00" />
 		</cargo>
-		<cargo chance="0.15" name="foodHermit">
+		<cargo chance="0.40" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
 				<item name="SardinesCan" chance="0.11" />
 				<item name="Apple" chance="0.07" />
 		</cargo>
-		<cargo chance="0.16" name="foodVillage">
+		<cargo chance="0.40" name="foodVillage">
 				<item name="TunaCan" chance="0.05" />
 				<item name="SardinesCan" chance="0.05" />
 				<item name="PeachesCan" chance="0.05" />
@@ -28,7 +28,7 @@
 				<item name="AyranBottle" chance="0.02" />
 				<item name="WaterBottle" chance="0.02" />
 		</cargo>
-		<cargo chance="0.16" name="foodCity"> <!--same as the one above - just preparing -->
+		<cargo chance="0.40" name="foodCity"> <!--same as the one above - just preparing -->
 				<item name="TunaCan" chance="0.05" />
 				<item name="SardinesCan" chance="0.05" />
 				<item name="PeachesCan" chance="0.05" />
@@ -154,7 +154,7 @@
 				<item name="Ammo_545x39" chance="0.25" />
 				<item name="AmmoBox_545x39_20Rnd" chance="0.07" />
 		</cargo>
-		<cargo chance="0.25" name="ammoArmy">
+		<cargo chance="0.30" name="ammoArmy">
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
 				<item name="Ammo_762x39" chance="0.2" />
@@ -162,7 +162,7 @@
 				<item name="Ammo_762x54" chance="0.2" />
 				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
 		</cargo>
-		<cargo chance="0.25" name="ammoArmytaki">
+		<cargo chance="0.30" name="ammoArmytaki">
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
 				<item name="Ammo_762x39" chance="0.2" />
@@ -174,7 +174,7 @@
 				<item name="Ammo_545x39" chance="0.2" />
 				<item name="AmmoBox_545x39_20Rnd" chance="0.05" />
 		</cargo>
-		<cargo chance="0.25" name="ammoArmyION">
+		<cargo chance="0.30" name="ammoArmyION">
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
 				<item name="Ammo_762x39" chance="0.2" />
@@ -249,7 +249,7 @@
 				<item name="Ammo_762x54" chance="0.2" />
 				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
 		</cargo>
-		<cargo chance="0.04" name="grenades">
+		<cargo chance="0.1" name="grenades">
 				<item name="RDG2SmokeGrenade_White" chance="0.25" />
 				<item name="FlashGrenade" chance="0.25" />
 				<item name="RDG2SmokeGrenade_Black" chance="0.25" />
@@ -264,7 +264,7 @@
 		</attachments>
 		
 		<!--NBC Cargo-->
-		<cargo chance="0.5" name="ContaminatedCargo">
+		<cargo chance="0.75" name="ContaminatedCargo">
 				<item name="GasMask_Filter" chance="1.00" />
 		</cargo>
 

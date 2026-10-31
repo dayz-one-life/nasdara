@@ -865,7 +865,7 @@
         <saferadius>1000</saferadius>
         <distanceradius>1000</distanceradius>
         <cleanupradius>1000</cleanupradius>
-        <secondary>InfectedArmy</secondary>
+        <secondary>InfectedArmyConvoy</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
@@ -884,7 +884,7 @@
         <saferadius>500</saferadius>
         <distanceradius>1000</distanceradius>
         <cleanupradius>1000</cleanupradius>
-        <secondary>InfectedArmy</secondary>
+        <secondary>InfectedArmyConvoy</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>

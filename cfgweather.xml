@@ -43,7 +43,7 @@
         <!-- How long does it take to the wind magnitude to change from one value to other (time in seconds) -->
         <timelimits min="120" max="240" />
         <!-- How much should the wind change -->
-        <changelimits min="0.0" max="2.0" />
+        <changelimits min="0.0" max="5.0" />
     </windMagnitude>
     <windDirection>
         <!-- Initial conditions of the wind direction(target value, time to change, how long will it stay), restricted by thresholds (see below) -->

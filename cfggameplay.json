@@ -55,7 +55,8 @@
       "./custom/faction-supplies.json",
       "./custom/awards.json",
       "./custom/teleports.json",
-      "./custom/teleport-names.json"
+      "./custom/teleport-names.json",
+      "./custom/nasdara.json"
     ],
     "environmentMinTemps": [
       2.4,

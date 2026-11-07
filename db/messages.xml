@@ -2,7 +2,8 @@
 <messages>
     <message>
         <repeat>5</repeat>
-        <text>NEW HERE? Link your gamertag at https://dayzclanwars.com</text>
+        <onConnect>1</onConnect>
+        <text>Link your gamertag at dayzclanwars.com within 1 hour of play, or you'll be locked out until you do.</text>
     </message>
     <message>
         <repeat>5</repeat>

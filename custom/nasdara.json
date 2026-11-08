@@ -1,6 +1,214 @@
 {
   "Objects": [
     {
+      "name": "StaticObj_Terrace_S1",
+      "pos": [
+        11707.451171875,
+        149.8814697265625,
+        3526.240234375
+      ],
+      "ypr": [
+        31.149999618530273,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_House_2M1",
+      "pos": [
+        11728.8154296875,
+        156.4208221435547,
+        3522.140380859375
+      ],
+      "ypr": [
+        121.15000915527344,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Terrace_S1",
+      "pos": [
+        11728.4765625,
+        149.39794921875,
+        3515.66845703125
+      ],
+      "ypr": [
+        -51.15000534057617,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Terrace_S1",
+      "pos": [
+        11700.09375,
+        149.427734375,
+        3533.469970703125
+      ],
+      "ypr": [
+        50.000003814697266,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Terrace_S1",
+      "pos": [
+        11692.3037109375,
+        149.427734375,
+        3542.755859375
+      ],
+      "ypr": [
+        50.000003814697266,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Terrace_S1",
+      "pos": [
+        11681.1865234375,
+        148.59585571289062,
+        3553.3349609375
+      ],
+      "ypr": [
+        39.999996185302734,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_House_1M1",
+      "pos": [
+        11689.6396484375,
+        155.84512329101562,
+        3545.44091796875
+      ],
+      "ypr": [
+        -131.8499755859375,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_House_1M3",
+      "pos": [
+        11696.1318359375,
+        155.517822265625,
+        3537.4775390625
+      ],
+      "ypr": [
+        48.149139404296875,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Terrace_S1",
+      "pos": [
+        11720.1181640625,
+        146.2412872314453,
+        3518.104736328125
+      ],
+      "ypr": [
+        31.149999618530273,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_water_pond_50x50m",
+      "pos": [
+        12350,
+        152,
+        3600
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_water_pond_50x50m",
+      "pos": [
+        12400,
+        152,
+        3600
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_water_pond_50x50m",
+      "pos": [
+        12400,
+        152,
+        3550
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_water_pond_50x50m",
+      "pos": [
+        12350,
+        152,
+        3650
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
       "name": "StaticObj_water_pond_50x50m",
       "pos": [
         10900,
@@ -10956,7 +11164,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999983310699463,
+      "scale": 0.9999982118606567,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -10972,7 +11180,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999992847442627,
+      "scale": 0.9999991655349731,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -10988,7 +11196,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.999998927116394,
+      "scale": 0.9999988675117493,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11004,7 +11212,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999986886978149,
+      "scale": 0.9999986290931702,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11020,7 +11228,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999986290931702,
+      "scale": 0.9999985694885254,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11036,7 +11244,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999996423721313,
+      "scale": 0.9999995827674866,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11052,7 +11260,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999995827674866,
+      "scale": 0.9999995231628418,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11068,7 +11276,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999994039535522,
+      "scale": 0.9999993443489075,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11084,7 +11292,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999991655349731,
+      "scale": 0.9999991059303284,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11100,7 +11308,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999991059303284,
+      "scale": 0.9999990463256836,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11116,7 +11324,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999990463256836,
+      "scale": 0.999998927116394,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11132,7 +11340,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999988675117493,
+      "scale": 0.9999988079071045,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11148,71 +11356,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999988079071045,
-      "enableCEPersistency": 0,
-      "customString": ""
-    },
-    {
-      "name": "StaticObj_Dam_Concrete_20",
-      "pos": [
-        12330.0,
-        143.41636657714844,
-        3660.321533203125
-      ],
-      "ypr": [
-        -89.99996948242188,
-        0.0,
-        0.0
-      ],
-      "scale": 0.9999994039535522,
-      "enableCEPersistency": 0,
-      "customString": ""
-    },
-    {
-      "name": "StaticObj_Dam_Concrete_20",
-      "pos": [
-        12330.0,
-        143.41636657714844,
-        3680.321533203125
-      ],
-      "ypr": [
-        -89.99996948242188,
-        0.0,
-        0.0
-      ],
-      "scale": 0.9999995231628418,
-      "enableCEPersistency": 0,
-      "customString": ""
-    },
-    {
-      "name": "StaticObj_Dam_Concrete_20",
-      "pos": [
-        12330.0,
-        143.41635131835938,
-        3620.321533203125
-      ],
-      "ypr": [
-        -89.99996948242188,
-        0.0,
-        0.0
-      ],
-      "scale": 0.9999992847442627,
-      "enableCEPersistency": 0,
-      "customString": ""
-    },
-    {
-      "name": "StaticObj_Dam_Concrete_20",
-      "pos": [
-        12330.0,
-        143.41636657714844,
-        3640.321533203125
-      ],
-      "ypr": [
-        -89.99996948242188,
-        0.0,
-        0.0
-      ],
-      "scale": 0.9999995231628418,
+      "scale": 0.9999986886978149,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11228,7 +11372,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999997615814209,
+      "scale": 0.9999996423721313,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11244,7 +11388,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999997615814209,
+      "scale": 0.9999996423721313,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11260,7 +11404,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999995231628418,
+      "scale": 0.9999994039535522,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11276,7 +11420,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999993443489075,
+      "scale": 0.9999992847442627,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11292,7 +11436,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999998211860657,
+      "scale": 0.9999997615814209,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11308,7 +11452,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999985694885254,
+      "scale": 0.9999984502792358,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11324,7 +11468,7 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999984502792358,
+      "scale": 0.9999983906745911,
       "enableCEPersistency": 0,
       "customString": ""
     },
@@ -11340,7 +11484,39 @@
         0.0,
         -0.0
       ],
-      "scale": 0.9999983906745911,
+      "scale": 0.9999983310699463,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_House_3S1",
+      "pos": [
+        11717.3701171875,
+        155.21575927734375,
+        3518.46728515625
+      ],
+      "ypr": [
+        -59.150753021240234,
+        0.0,
+        0.0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_House_3S2",
+      "pos": [
+        11711.3515625,
+        158.08506774902344,
+        3527.80517578125
+      ],
+      "ypr": [
+        31.149999618530273,
+        0.0,
+        -0.0
+      ],
+      "scale": 0.9999997615814209,
       "enableCEPersistency": 0,
       "customString": ""
     }

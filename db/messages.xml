@@ -2,31 +2,26 @@
 <messages>
     <message>
         <repeat>5</repeat>
-        <onConnect>1</onConnect>
-        <text>Link your gamertag at dayzclanwars.com within 1 hour of play, or you'll be locked out until you do.</text>
-    </message>
-    <message>
-        <repeat>5</repeat>
         <text>Top referrer each week gets a free weapon spawn!</text>
     </message>
     <message>
-        <repeat>115</repeat>
+        <repeat>110</repeat>
         <text>SERVER WILL RESTART SOON!!</text>
     </message>
     <message>
-        <repeat>115</repeat>
+        <repeat>111</repeat>
         <text>SERVER WILL RESTART SOON!!</text>
     </message>
     <message>
-        <repeat>115</repeat>
+        <repeat>112</repeat>
         <text>SERVER WILL RESTART SOON!!</text>
     </message>
     <message>
-        <repeat>115</repeat>
+        <repeat>113</repeat>
         <text>SERVER WILL RESTART SOON!!</text>
     </message>
     <message>
-        <repeat>115</repeat>
+        <repeat>114</repeat>
         <text>SERVER WILL RESTART SOON!!</text>
     </message>
 </messages>

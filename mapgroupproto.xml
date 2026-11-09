@@ -17742,26 +17742,26 @@
 						<tag name="shelves" />
 						<tag name="ground" />
 				</container>
-				<dispatch dechance="1.00">
-						<proxy type="m14" pos="-0.520 0.85 0.87" rpy="0.0000 180.000000 90.000000" dechance="1.00" />
+				<dispatch dechance="0.5">
+						<proxy type="m14" pos="-0.520 0.85 0.87" rpy="0.0000 180.000000 90.000000" dechance="0.5" />
 				</dispatch>
-				<dispatch dechance="0.75">
-						<proxy type="m14" pos="1.0 0.75 0.308" rpy="90.000000 0.000000 -90.000000" dechance="0.75" />
+				<dispatch dechance="0.5">
+						<proxy type="m14" pos="1.0 0.75 0.308" rpy="90.000000 0.000000 -90.000000" dechance="0.5" />
 				</dispatch>
 				<dispatch dechance="0.5">
 						<proxy type="m14" pos="-0.255 0.85 0.87" rpy="0.0000 180.000000 90.000000" dechance="0.5" />
 				</dispatch>
-				<dispatch dechance="0.5">
-						<proxy type="SV98" pos=" 0.316 0.75 0.87" rpy="0.0000 180.000000 90.000000" dechance="0.5" />
+				<dispatch dechance="0.0">
+						<proxy type="SV98" pos=" 0.316 0.75 0.87" rpy="0.0000 180.000000 90.000000" dechance="0.0" />
 				</dispatch>
-				<dispatch dechance="0.75">
-						<proxy type="SV98" pos="1.0 0.75 0.855" rpy="90.000000 0.000000 -90.000000" dechance="0.75" />
+				<dispatch dechance="0.0">
+						<proxy type="SV98" pos="1.0 0.75 0.855" rpy="90.000000 0.000000 -90.000000" dechance="0.0" />
 				</dispatch>
-				<dispatch dechance="1.00">
-						<proxy type="SV98" pos="1.0 0.75 0.035" rpy="90.000000 0.000000 -90.000000" dechance="1.00" />
+				<dispatch dechance="0.0">
+						<proxy type="SV98" pos="1.0 0.75 0.035" rpy="90.000000 0.000000 -90.000000" dechance="0.0" />
 				</dispatch>
-				<dispatch dechance="0.5">
-						<proxy type="SV98" pos="1.0 0.75 -0.243" rpy="90.000000 0.000000 -90.000000" dechance="0.5" />
+				<dispatch dechance="0.0">
+						<proxy type="SV98" pos="1.0 0.75 -0.243" rpy="90.000000 0.000000 -90.000000" dechance="0.0" />
 				</dispatch>
 				<dispatch dechance="0.75">
 						<proxy type="AKM" pos="-0.781 0.75 0.87" rpy="0.0000 180.000000 90.000000" dechance="0.5" />
@@ -17775,8 +17775,8 @@
 				<dispatch dechance="0.5">
 						<proxy type="AKM" pos="1.0 0.75 0.579" rpy="90.000000 0.000000 -90.000000" dechance="0.5" />
 				</dispatch>
-				<dispatch dechance="1.00">
-						<proxy type="AKM" pos="1.0 0.75 -0.505" rpy="90.000000 0.000000 -90.000000" dechance="1.00" />
+				<dispatch dechance="0.5">
+						<proxy type="AKM" pos="1.0 0.75 -0.505" rpy="90.000000 0.000000 -90.000000" dechance="0.5" />
 				</dispatch>
 		</group>
 		<group name="Land_Refugee_ContainerHabitat_1" lootmax="5">
@@ -29086,15 +29086,14 @@
 						<point pos="2.496704 0.048363 -0.017822" range="0.510986" height="1.277466" />
 				</container>
 		</group>
-		<group name="Land_Tunnel_Single_Bunker" lootmax="40">
+		<group name="Land_Tunnel_Single_Bunker" lootmax="25">
 				<usage name="Military" />
 				<usage name="MilitaryWest" />
 				<usage name="MilitaryEast" />
-				<value name="Unique" />
-				<container name="lootFloor" lootmax="30">
+				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
 						<category name="containers" />
-						<category name="weapons" />
+						<category name="clothes" />
 						<tag name="floor" />
 						<point pos="9.280202 2.200012 -12.440561" range="1.199951" height="1.480133" />
 						<point pos="11.707063 2.200012 -10.354280" range="0.931113" height="1.749908" />

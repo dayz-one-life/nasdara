@@ -14,28 +14,6 @@ jobs:
         with:
           fetch-depth: 0  # lets the action compare history for accurate diffs
 
-      # ⚠️ King of the Hill: the clan-wars bot builds each session's spawn file
-      # from koth/default/cfgplayerspawnpoints.xml and restores it from there
-      # afterwards, and reads the normal CleanupLifetimeDead{Player,Infected} and
-      # CleanupAvoidance values back out of koth/default/globals.xml. They are
-      # COPIED here, never committed, so a stale mirror can never undo an edit
-      # to the real file. Without this step the bot refuses to open a KotH
-      # session at all.
-      - name: Stage the KotH defaults
-        run: |
-          mkdir -p koth/default
-          cp cfgplayerspawnpoints.xml koth/default/
-          cp db/globals.xml koth/default/
-
-      # ⚠️ The repo's cfggameplay.json must always carry the DEFAULT loadout:
-      # the bot swaps in the koth- presets for one session only.
-      - name: Refuse a KotH preset in the default cfggameplay.json
-        run: |
-          if grep -q '"./custom/koth-' cfggameplay.json; then
-            echo "cfggameplay.json names a koth- preset; the repo must hold the default loadout" >&2
-            exit 1
-          fi
-
       - name: Deploy changed files via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:

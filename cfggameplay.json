@@ -1,7 +1,7 @@
 {
   "version": 130,
   "GeneralData": {
-    "disableBaseDamage": true,
+    "disableBaseDamage": false,
     "disableContainerDamage": false,
     "disableRespawnDialog": false,
     "disableRespawnInUnconsciousness": true

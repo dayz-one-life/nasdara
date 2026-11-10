@@ -1,278 +1,6 @@
 {
     "Objects": [
         {
-            "name": "StaticObj_Terrace_S1",
-            "pos": [
-                11707.451171875,
-                149.8814697265625,
-                3526.240234375
-            ],
-            "ypr": [
-                31.149999618530275,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_House_2M1",
-            "pos": [
-                11728.8154296875,
-                156.4208221435547,
-                3522.140380859375
-            ],
-            "ypr": [
-                121.15000915527344,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Terrace_S1",
-            "pos": [
-                11728.4765625,
-                149.39794921875,
-                3515.66845703125
-            ],
-            "ypr": [
-                -51.15000534057617,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995231628418,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Terrace_S1",
-            "pos": [
-                11700.09375,
-                149.427734375,
-                3533.469970703125
-            ],
-            "ypr": [
-                50.000003814697269,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995827674866,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Terrace_S1",
-            "pos": [
-                11692.3037109375,
-                149.427734375,
-                3542.755859375
-            ],
-            "ypr": [
-                50.000003814697269,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995231628418,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Terrace_S1",
-            "pos": [
-                11681.1865234375,
-                148.59585571289063,
-                3553.3349609375
-            ],
-            "ypr": [
-                39.99999237060547,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999994039535523,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_House_1M1",
-            "pos": [
-                11689.6396484375,
-                155.84512329101563,
-                3545.44091796875
-            ],
-            "ypr": [
-                -131.8499755859375,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995231628418,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_House_1M3",
-            "pos": [
-                11696.1318359375,
-                155.517822265625,
-                3537.4775390625
-            ],
-            "ypr": [
-                48.149139404296878,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999997019767761,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Terrace_S1",
-            "pos": [
-                11720.1181640625,
-                146.2412872314453,
-                3518.104736328125
-            ],
-            "ypr": [
-                31.149999618530275,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995827674866,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                12350.0,
-                152.0,
-                3600.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999997615814209,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                12400.0,
-                152.0,
-                3600.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                12400.0,
-                152.0,
-                3550.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999995827674866,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                12350.0,
-                152.0,
-                3650.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                10900.0,
-                152.0,
-                3400.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9650.0,
-                152.0,
-                4700.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9700.0,
-                152.0,
-                4600.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9700.0,
-                152.0,
-                4650.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
                 9700.0,
@@ -11164,7 +10892,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998152256012,
+            "scale": 0.9999980926513672,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11180,7 +10908,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991059303284,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11196,7 +10924,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11212,7 +10940,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999985694885254,
+            "scale": 0.9999984502792358,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11228,7 +10956,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999984502792358,
+            "scale": 0.9999983906745911,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11244,7 +10972,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11260,7 +10988,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11276,7 +11004,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11292,7 +11020,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11308,7 +11036,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998927116394,
+            "scale": 0.9999988675117493,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11324,7 +11052,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988675117493,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11340,7 +11068,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986886978149,
+            "scale": 0.9999986290931702,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11356,7 +11084,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986290931702,
+            "scale": 0.9999985694885254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11372,7 +11100,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11388,7 +11116,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11404,7 +11132,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11420,7 +11148,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11436,7 +11164,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11452,7 +11180,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983906745911,
+            "scale": 0.9999983310699463,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11468,7 +11196,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983310699463,
+            "scale": 0.9999982118606567,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11484,7 +11212,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999982118606567,
+            "scale": 0.999998152256012,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11500,7 +11228,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11516,7 +11244,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11528,11 +11256,11 @@
                 4698.53271484375
             ],
             "ypr": [
-                -38.99999237060547,
+                -38.999996185302737,
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11548,7 +11276,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11564,7 +11292,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999985694885254,
+            "scale": 0.9999984502792358,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11580,7 +11308,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11596,7 +11324,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999984502792358,
+            "scale": 0.9999983906745911,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11612,7 +11340,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999984502792358,
+            "scale": 0.9999983906745911,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11628,7 +11356,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11644,7 +11372,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983310699463,
+            "scale": 0.9999982118606567,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11660,7 +11388,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11676,7 +11404,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11692,7 +11420,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11708,7 +11436,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983310699463,
+            "scale": 0.9999982118606567,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11724,7 +11452,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991059303284,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11740,7 +11468,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11756,7 +11484,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11772,7 +11500,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11788,7 +11516,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998927116394,
+            "scale": 0.9999988675117493,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11804,7 +11532,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999982118606567,
+            "scale": 0.999998152256012,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11820,7 +11548,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999931812286377,
+            "scale": 0.9999316930770874,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11836,7 +11564,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986290931702,
+            "scale": 0.9999985694885254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11852,7 +11580,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999316930770874,
+            "scale": 0.9999316334724426,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11868,7 +11596,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998152256012,
+            "scale": 0.9999980926513672,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11884,7 +11612,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999315738677979,
+            "scale": 0.9999314546585083,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11900,7 +11628,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11916,7 +11644,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11932,7 +11660,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999980926513672,
+            "scale": 0.9999979734420776,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11948,7 +11676,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998927116394,
+            "scale": 0.9999988675117493,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11960,11 +11688,11 @@
                 4688.44287109375
             ],
             "ypr": [
-                -39.0,
+                -38.999996185302737,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11980,7 +11708,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988675117493,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -11996,7 +11724,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12012,7 +11740,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988675117493,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12028,7 +11756,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12044,7 +11772,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12060,7 +11788,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12076,7 +11804,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12092,7 +11820,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12108,7 +11836,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12120,59 +11848,11 @@
                 4726.0751953125
             ],
             "ypr": [
-                -38.999996185302737,
+                -39.0,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                5650.0,
-                201.3560028076172,
-                6450.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999988079071045,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9500.0,
-                156.15444946289063,
-                4800.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999991655349731,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                6050.0,
-                201.3560028076172,
-                6250.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12189,6 +11869,54 @@
                 -0.0
             ],
             "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9500.0,
+                156.15444946289063,
+                4800.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                6050.0,
+                201.3560028076172,
+                6250.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                5650.0,
+                201.3560028076172,
+                6450.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986290931702,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12204,7 +11932,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12220,7 +11948,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12236,7 +11964,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986290931702,
+            "scale": 0.9999985694885254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12252,7 +11980,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12268,7 +11996,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986290931702,
+            "scale": 0.9999985694885254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12284,7 +12012,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12300,7 +12028,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12316,7 +12044,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12332,7 +12060,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999985694885254,
+            "scale": 0.9999984502792358,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12348,7 +12076,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12364,7 +12092,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998927116394,
+            "scale": 0.9999988675117493,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12380,7 +12108,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12396,7 +12124,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12412,7 +12140,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999984502792358,
+            "scale": 0.9999983906745911,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12424,11 +12152,11 @@
                 12100.0
             ],
             "ypr": [
-                0.000002561321707617026,
+                0.0000025613219349907014,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12444,7 +12172,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998927116394,
+            "scale": 0.9999988675117493,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12460,7 +12188,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12476,7 +12204,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12492,7 +12220,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12508,7 +12236,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983906745911,
+            "scale": 0.9999983310699463,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12524,7 +12252,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12540,7 +12268,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983310699463,
+            "scale": 0.9999982118606567,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12556,7 +12284,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12572,7 +12300,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999982118606567,
+            "scale": 0.999998152256012,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12588,7 +12316,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12604,7 +12332,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12620,7 +12348,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12628,118 +12356,6 @@
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
                 5400.0,
-                201.3560028076172,
-                6400.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999982118606567,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9300.0,
-                156.15444946289063,
-                4900.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999986886978149,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Dam_Concrete_20",
-            "pos": [
-                9246.7236328125,
-                200.84320068359376,
-                12045.9462890625
-            ],
-            "ypr": [
-                12.999999046325684,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Dam_Concrete_20",
-            "pos": [
-                9265.8154296875,
-                200.84320068359376,
-                12041.537109375
-            ],
-            "ypr": [
-                13.000000953674317,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999988675117493,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9300.0,
-                156.15444946289063,
-                4850.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999985694885254,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9300.0,
-                156.15444946289063,
-                4950.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999985694885254,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9550.0,
-                156.15444946289063,
-                4800.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999994039535523,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                5350.0,
                 201.3560028076172,
                 6400.0
             ],
@@ -12755,6 +12371,118 @@
         {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
+                9300.0,
+                156.15444946289063,
+                4900.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986290931702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_20",
+            "pos": [
+                9246.7236328125,
+                200.84320068359376,
+                12045.9462890625
+            ],
+            "ypr": [
+                12.999999046325684,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_20",
+            "pos": [
+                9265.8154296875,
+                200.84320068359376,
+                12041.537109375
+            ],
+            "ypr": [
+                13.000000953674317,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9300.0,
+                156.15444946289063,
+                4850.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9300.0,
+                156.15444946289063,
+                4950.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9550.0,
+                156.15444946289063,
+                4800.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                5350.0,
+                201.3560028076172,
+                6400.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
                 5350.0,
                 201.3560028076172,
                 6450.0
@@ -12764,7 +12492,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999980926513672,
+            "scale": 0.9999979734420776,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12780,7 +12508,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999980926513672,
+            "scale": 0.9999979734420776,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12796,7 +12524,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12812,7 +12540,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12828,7 +12556,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12844,7 +12572,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12860,7 +12588,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12876,7 +12604,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12892,7 +12620,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12908,7 +12636,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12924,7 +12652,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -12932,22 +12660,6 @@
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
                 5000.0,
-                234.0,
-                5450.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999998211860657,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                5050.0,
                 234.0,
                 5450.0
             ],
@@ -12965,7 +12677,7 @@
             "pos": [
                 5050.0,
                 234.0,
-                5400.0
+                5450.0
             ],
             "ypr": [
                 0.0,
@@ -12979,7 +12691,7 @@
         {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
-                5000.0,
+                5050.0,
                 234.0,
                 5400.0
             ],
@@ -12997,7 +12709,7 @@
             "pos": [
                 5000.0,
                 234.0,
-                5350.0
+                5400.0
             ],
             "ypr": [
                 0.0,
@@ -13005,6 +12717,22 @@
                 -0.0
             ],
             "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                5000.0,
+                234.0,
+                5350.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13020,7 +12748,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13036,7 +12764,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13052,7 +12780,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13068,7 +12796,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13084,7 +12812,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13100,7 +12828,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991059303284,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13116,7 +12844,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13132,7 +12860,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13148,7 +12876,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13164,7 +12892,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13180,7 +12908,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13196,7 +12924,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991059303284,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13212,7 +12940,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991059303284,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13228,7 +12956,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13244,7 +12972,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13260,7 +12988,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13276,7 +13004,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988675117493,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13292,7 +13020,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988675117493,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13308,7 +13036,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13324,7 +13052,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988675117493,
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13340,7 +13068,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986886978149,
+            "scale": 0.9999986290931702,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13356,7 +13084,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999998927116394,
+            "scale": 0.9999988675117493,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13372,7 +13100,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986290931702,
+            "scale": 0.9999985694885254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13388,7 +13116,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999985694885254,
+            "scale": 0.9999984502792358,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13404,7 +13132,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13420,7 +13148,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13436,7 +13164,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13452,7 +13180,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992251396179,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13468,7 +13196,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13484,7 +13212,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13500,7 +13228,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13516,7 +13244,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999988079071045,
+            "scale": 0.9999986886978149,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13532,7 +13260,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13542,22 +13270,6 @@
                 9650.0,
                 193.83399963378907,
                 11800.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999998211860657,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                9650.0,
-                193.83399963378907,
-                11850.0
             ],
             "ypr": [
                 0.0,
@@ -13571,7 +13283,7 @@
         {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
-                9600.0,
+                9650.0,
                 193.83399963378907,
                 11850.0
             ],
@@ -13589,7 +13301,7 @@
             "pos": [
                 9600.0,
                 193.83399963378907,
-                11800.0
+                11850.0
             ],
             "ypr": [
                 0.0,
@@ -13597,6 +13309,22 @@
                 -0.0
             ],
             "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9600.0,
+                193.83399963378907,
+                11800.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13612,7 +13340,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13628,7 +13356,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13644,7 +13372,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13660,7 +13388,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13676,7 +13404,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999986290931702,
+            "scale": 0.9999985694885254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13692,7 +13420,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13708,7 +13436,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13724,7 +13452,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999985694885254,
+            "scale": 0.9999984502792358,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13740,7 +13468,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999316334724426,
+            "scale": 0.9999315738677979,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13750,38 +13478,6 @@
                 5500.0,
                 201.3560028076172,
                 6450.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999984502792358,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                7000.0,
-                184.0,
-                5500.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999998211860657,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                5500.0,
-                201.3560028076172,
-                6500.0
             ],
             "ypr": [
                 0.0,
@@ -13797,7 +13493,7 @@
             "pos": [
                 7000.0,
                 184.0,
-                5550.0
+                5500.0
             ],
             "ypr": [
                 0.0,
@@ -13805,6 +13501,38 @@
                 -0.0
             ],
             "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                5500.0,
+                201.3560028076172,
+                6500.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                7000.0,
+                184.0,
+                5550.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13820,7 +13548,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13836,7 +13564,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13852,7 +13580,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13868,7 +13596,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13884,7 +13612,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13900,7 +13628,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999979734420776,
+            "scale": 0.9999979138374329,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13916,7 +13644,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13932,7 +13660,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13948,7 +13676,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13964,7 +13692,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9998875856399536,
+            "scale": 0.9998875260353088,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13980,7 +13708,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -13996,7 +13724,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999983310699463,
+            "scale": 0.9999982118606567,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14012,7 +13740,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14028,7 +13756,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14044,7 +13772,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14060,38 +13788,6 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                10600.0,
-                163.29331970214845,
-                10800.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_water_pond_50x50m",
-            "pos": [
-                6800.0,
-                184.0,
-                5650.0
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
             "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
@@ -14099,7 +13795,7 @@
         {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
-                10550.0,
+                10600.0,
                 163.29331970214845,
                 10800.0
             ],
@@ -14117,7 +13813,7 @@
             "pos": [
                 6800.0,
                 184.0,
-                5700.0
+                5650.0
             ],
             "ypr": [
                 0.0,
@@ -14131,7 +13827,23 @@
         {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
-                6750.0,
+                10550.0,
+                163.29331970214845,
+                10800.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                6800.0,
                 184.0,
                 5700.0
             ],
@@ -14147,6 +13859,22 @@
         {
             "name": "StaticObj_water_pond_50x50m",
             "pos": [
+                6750.0,
+                184.0,
+                5700.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
                 10550.0,
                 163.29331970214845,
                 10850.0
@@ -14156,7 +13884,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14172,7 +13900,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999990463256836,
+            "scale": 0.999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14188,7 +13916,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14204,7 +13932,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14220,7 +13948,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -14236,7 +13964,1719 @@
                 0.0,
                 -0.0
             ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9375.640625,
+                200.82089233398438,
+                11969.251953125
+            ],
+            "ypr": [
+                -56.339996337890628,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9334.9072265625,
+                200.82089233398438,
+                11996.37890625
+            ],
+            "ypr": [
+                -56.339996337890628,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9479.8583984375,
+                193.73495483398438,
+                11891.3818359375
+            ],
+            "ypr": [
+                -59.8953857421875,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9501.849609375,
+                193.73495483398438,
+                11929.3193359375
+            ],
+            "ypr": [
+                -59.8953857421875,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9484.3720703125,
+                193.73495483398438,
+                11899.3125
+            ],
+            "ypr": [
+                -59.8953857421875,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_20",
+            "pos": [
+                8213.0498046875,
+                225.20956420898438,
+                11581.1875
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10160.365234375,
+                183.396728515625,
+                11559.9658203125
+            ],
+            "ypr": [
+                -75.510009765625,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10286.5146484375,
+                177.21405029296876,
+                11529.951171875
+            ],
+            "ypr": [
+                -75.96851348876953,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10296.126953125,
+                177.21405029296876,
+                11568.416015625
+            ],
+            "ypr": [
+                -75.96851348876953,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10126.076171875,
+                183.396728515625,
+                11568.830078125
+            ],
+            "ypr": [
+                -75.510009765625,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10299.1611328125,
+                177.21405029296876,
+                11581.3720703125
+            ],
+            "ypr": [
+                -75.96851348876953,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10283.1982421875,
+                177.21405029296876,
+                11516.7255859375
+            ],
+            "ypr": [
+                -75.96851348876953,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10266.0673828125,
+                180.46949768066407,
+                11556.396484375
+            ],
+            "ypr": [
+                -75.97000885009766,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10228.9560546875,
+                180.46949768066407,
+                11548.3818359375
+            ],
+            "ypr": [
+                -75.97000885009766,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10208.5263671875,
+                180.46949768066407,
+                11553.48828125
+            ],
+            "ypr": [
+                -75.97000885009766,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10186.58203125,
+                181.0115966796875,
+                11557.5263671875
+            ],
+            "ypr": [
+                -75.507568359375,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_20",
+            "pos": [
+                8231.2880859375,
+                225.20956420898438,
+                11573.171875
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8277.1513671875,
+                232.54193115234376,
+                11492.466796875
+            ],
+            "ypr": [
+                -66.57000732421875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8239.7353515625,
+                232.54200744628907,
+                11515.61328125
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8206.5009765625,
+                232.54200744628907,
+                11547.505859375
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8179.89111328125,
+                232.54200744628907,
+                11504.490234375
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8159.17431640625,
+                232.54200744628907,
+                11457.3740234375
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8138.5732421875,
+                232.54200744628907,
+                11410.5419921875
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8109.83056640625,
+                232.54200744628907,
+                11369.2099609375
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8136.62841796875,
+                232.54200744628907,
+                11357.4228515625
+            ],
+            "ypr": [
+                -156.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8123.99365234375,
+                232.54200744628907,
+                11322.8564453125
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
             "scale": 0.9999991655349731,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8128.91455078125,
+                232.54200744628907,
+                11277.994140625
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8140.85302734375,
+                232.54200744628907,
+                11228.8173828125
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8146.236328125,
+                232.54200744628907,
+                11179.7119140625
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8166.33544921875,
+                232.54200744628907,
+                11131.400390625
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8190.25927734375,
+                232.54200744628907,
+                11084.341796875
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8209.7353515625,
+                232.54200744628907,
+                11035.4521484375
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8224.0859375,
+                232.54200744628907,
+                10987.755859375
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8229.3046875,
+                232.54200744628907,
+                10940.18359375
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999982118606567,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8223.6142578125,
+                232.54200744628907,
+                10889.4140625
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8215.923828125,
+                232.54200744628907,
+                10841.4287109375
+            ],
+            "ypr": [
+                173.73997497558595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979734420776,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8211.4111328125,
+                232.54200744628907,
+                10802.9384765625
+            ],
+            "ypr": [
+                -170.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999976754188538,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10408.0,
+                173.34933471679688,
+                11437.0048828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10353.3818359375,
+                175.1089630126953,
+                11517.4541015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8202.8349609375,
+                232.54200744628907,
+                10752.9677734375
+            ],
+            "ypr": [
+                -170.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10314.4541015625,
+                175.1089630126953,
+                11538.1220703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8194.232421875,
+                232.54200744628907,
+                10702.849609375
+            ],
+            "ypr": [
+                -170.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999975562095642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8186.4013671875,
+                232.54200744628907,
+                10657.224609375
+            ],
+            "ypr": [
+                -170.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999974966049194,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8176.37646484375,
+                232.54200744628907,
+                10635.2900390625
+            ],
+            "ypr": [
+                -170.25999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999974370002747,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8283.583984375,
+                234.99588012695313,
+                11444.9423828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                8280.5966796875,
+                231.62640380859376,
+                11471.427734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                8269.0078125,
+                231.75296020507813,
+                11471.2939453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8266.2265625,
+                234.99588012695313,
+                11396.0595703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8237.56640625,
+                234.99588012695313,
+                11387.1982421875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                8789.2568359375,
+                225.05911254882813,
+                12372.962890625
+            ],
+            "ypr": [
+                -96.85467529296875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                8787.4677734375,
+                225.11729431152345,
+                12386.9033203125
+            ],
+            "ypr": [
+                -96.85467529296875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8762.80859375,
+                228.50624084472657,
+                12370.826171875
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8714.703125,
+                228.50624084472657,
+                12365.048828125
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8691.2373046875,
+                228.50624084472657,
+                12376.3984375
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8656.3017578125,
+                228.50624084472657,
+                12386.8291015625
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8621.7275390625,
+                228.50624084472657,
+                12402.802734375
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8573.9970703125,
+                228.50624084472657,
+                12397.072265625
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8568.4873046875,
+                228.50624084472657,
+                12442.9228515625
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8524.7119140625,
+                228.50624084472657,
+                12391.15234375
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8519.2021484375,
+                228.50624084472657,
+                12437.0029296875
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8469.591796875,
+                228.50624084472657,
+                12431.0419921875
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8419.2685546875,
+                228.50624084472657,
+                12432.4970703125
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8424.822265625,
+                228.50624084472657,
+                12386.2890625
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8376.8291015625,
+                228.50624084472657,
+                12362.6728515625
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8373.546875,
+                228.50624084472657,
+                12389.9921875
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8326.0341796875,
+                228.50624084472657,
+                12373.392578125
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986290931702,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8330.23046875,
+                228.50624084472657,
+                12338.455078125
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8376.47265625,
+                228.50624084472657,
+                12322.4423828125
+            ],
+            "ypr": [
+                -44.849998474121097,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8410.23046875,
+                228.50624084472657,
+                12288.5068359375
+            ],
+            "ypr": [
+                -44.849998474121097,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8444.931640625,
+                228.50624084472657,
+                12253.6240234375
+            ],
+            "ypr": [
+                -44.849998474121097,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983906745911,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8479.017578125,
+                228.50624084472657,
+                12221.20703125
+            ],
+            "ypr": [
+                -16.850000381469728,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999982118606567,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8481.7734375,
+                228.50624084472657,
+                12171.1552734375
+            ],
+            "ypr": [
+                -6.849999904632568,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8494.9521484375,
+                228.50624084472657,
+                12123.8564453125
+            ],
+            "ypr": [
+                -6.849999904632568,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979734420776,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8500.3427734375,
+                228.50624084472657,
+                12078.9912109375
+            ],
+            "ypr": [
+                -6.849999904632568,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999978542327881,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8278.7626953125,
+                228.50624084472657,
+                12367.71484375
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                8244.857421875,
+                228.50624084472657,
+                12363.6416015625
+            ],
+            "ypr": [
+                -96.8499984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9320.853515625,
+                201.48251342773438,
+                11999.654296875
+            ],
+            "ypr": [
+                -67.45000457763672,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9326.1875,
+                201.5186767578125,
+                12012.3955078125
+            ],
+            "ypr": [
+                -67.45000457763672,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9316.166015625,
+                201.38311767578126,
+                11988.03515625
+            ],
+            "ypr": [
+                -67.45000457763672,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9292.4951171875,
+                204.4068145751953,
+                12001.23828125
+            ],
+            "ypr": [
+                -67.45000457763672,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                10368.318359375,
+                173.34933471679688,
+                11437.0048828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10391.669921875,
+                175.1089630126953,
+                11462.1513671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10375.162109375,
+                175.1089630126953,
+                11492.861328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10330.158203125,
+                175.1089630126953,
+                11524.0400390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9466.9677734375,
+                197.18350219726563,
+                11921.587890625
+            ],
+            "ypr": [
+                -59.90000534057617,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9422.9921875,
+                197.18350219726563,
+                11947.0771484375
+            ],
+            "ypr": [
+                -59.90000534057617,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9405.30078125,
+                197.18350219726563,
+                11957.3330078125
+            ],
+            "ypr": [
+                -59.90000534057617,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9380.5439453125,
+                197.14825439453126,
+                11931.564453125
+            ],
+            "ypr": [
+                -56.33506774902344,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9409.1220703125,
+                197.14825439453126,
+                11974.4677734375
+            ],
+            "ypr": [
+                -56.33506774902344,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dam_Concrete_40",
+            "pos": [
+                9388.3447265625,
+                197.3131561279297,
+                11943.220703125
+            ],
+            "ypr": [
+                -56.33506774902344,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrace_S1",
+            "pos": [
+                11707.451171875,
+                149.8814697265625,
+                3526.240234375
+            ],
+            "ypr": [
+                31.149999618530275,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_2M1",
+            "pos": [
+                11728.8154296875,
+                156.4208221435547,
+                3522.140380859375
+            ],
+            "ypr": [
+                121.15000915527344,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrace_S1",
+            "pos": [
+                11728.4765625,
+                149.39794921875,
+                3515.66845703125
+            ],
+            "ypr": [
+                -51.15000534057617,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrace_S1",
+            "pos": [
+                11700.09375,
+                149.427734375,
+                3533.469970703125
+            ],
+            "ypr": [
+                50.000003814697269,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrace_S1",
+            "pos": [
+                11692.3037109375,
+                149.427734375,
+                3542.755859375
+            ],
+            "ypr": [
+                50.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrace_S1",
+            "pos": [
+                11681.1865234375,
+                148.59585571289063,
+                3553.3349609375
+            ],
+            "ypr": [
+                39.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1M1",
+            "pos": [
+                11689.6396484375,
+                155.84512329101563,
+                3545.44091796875
+            ],
+            "ypr": [
+                -131.8499755859375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1M3",
+            "pos": [
+                11696.1318359375,
+                155.517822265625,
+                3537.4775390625
+            ],
+            "ypr": [
+                48.149139404296878,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrace_S1",
+            "pos": [
+                11720.1181640625,
+                146.2412872314453,
+                3518.104736328125
+            ],
+            "ypr": [
+                31.149999618530275,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                12350.0,
+                152.0,
+                3600.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                12400.0,
+                152.0,
+                3600.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                12400.0,
+                152.0,
+                3550.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                12350.0,
+                152.0,
+                3650.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                10900.0,
+                152.0,
+                3400.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9650.0,
+                152.0,
+                4700.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9700.0,
+                152.0,
+                4600.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_water_pond_50x50m",
+            "pos": [
+                9700.0,
+                152.0,
+                4650.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
             "enableCEPersistency": 0,
             "customString": ""
         }
